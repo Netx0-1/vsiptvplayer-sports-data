@@ -1,0 +1,12 @@
+{
+  "name": "vsiptvplayer-sports-data",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "update": "node scripts/update-sports.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

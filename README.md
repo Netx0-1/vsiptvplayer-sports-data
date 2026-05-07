@@ -40,3 +40,15 @@ Etkinlige direkt `stream_id` veya tam `url` de verilebilir:
   "stream_id": "12345"
 }
 ```
+
+## Otomatik guncelleme
+
+GitHub Actions her 6 saatte bir `npm run update` komutunu calistirir.
+
+Script `sources.json` icindeki Spor Ekrani kanal sayfalarindan maclari okur, `channels.json` icindeki kanal eslesmelerine gore oynatilabilir olanlari secer ve `sports.json` dosyasini yeniden yazar.
+
+Yeni bir kanal eklemek icin:
+
+1. IPTV `stream_id` degerini `channels.json` icine ekle.
+2. Gerekirse kaynak kanal sayfasini `sources.json` icine ekle.
+3. Actions sekmesinden `Update sports schedule` workflow'unu manuel calistir veya zamanli calismasini bekle.
