@@ -45,7 +45,7 @@ Etkinlige direkt `stream_id` veya tam `url` de verilebilir:
 
 GitHub Actions her 6 saatte bir `npm run update` komutunu calistirir.
 
-Script `sources.json` icindeki Spor Ekrani kanal sayfalarindan maclari okur, `channels.json` icindeki kanal eslesmelerine gore oynatilabilir olanlari secer ve `sports.json` dosyasini yeniden yazar.
+Script `sources.json` icindeki beIN Sports Spor Ekrani kanal sayfalarindan maclari okur, `channels.json` icindeki kanal eslesmelerine gore oynatilabilir olanlari secer ve `sports.json` dosyasini yeniden yazar.
 
 Yeni bir kanal eklemek icin:
 
