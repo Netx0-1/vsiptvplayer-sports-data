@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.05.2026 19:52",
+  "updated_at": "07.05.2026 21:31",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -46,15 +46,6 @@
   "events": [
     {
       "date": "2026-05-07",
-      "time": "18:00",
-      "sport": "Tenis",
-      "league": "WTA Roma",
-      "title": "B.Bencic - B.Andreescu",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-05-07",
       "time": "20:00",
       "sport": "Futbol",
       "league": "Trendyol 1. Lig Play Off",
@@ -73,10 +64,64 @@
     },
     {
       "date": "2026-05-07",
+      "time": "21:00",
+      "sport": "Hentbol",
+      "league": "Fransa Hentbol Ligi",
+      "title": "Chambery Savoie - Nimes",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-05-07",
       "time": "21:30",
       "sport": "Tenis",
       "league": "WTA Roma",
       "title": "A.Sabalenka - B.Krejcikova",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-05-08",
+      "time": "12:00",
+      "sport": "Tenis",
+      "league": "WTA Roma",
+      "title": "C.McNally - I.Swiatek",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-05-08",
+      "time": "14:00",
+      "sport": "Tenis",
+      "league": "WTA Roma",
+      "title": "N.Osaka - E.Lys",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-05-08",
+      "time": "14:30",
+      "sport": "Tenis",
+      "league": "WTA Roma",
+      "title": "J.Pegula - Zeynep Sönmez",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-05-08",
+      "time": "16:00",
+      "sport": "Tenis",
+      "league": "WTA Roma",
+      "title": "T.C.Grant - V.Mboko",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-05-08",
+      "time": "18:00",
+      "sport": "Tenis",
+      "league": "WTA Roma",
+      "title": "M.Sakkari - E.Rybakina",
       "channel": "beIN SPORTS MAX 2",
       "stream_id": "17"
     },
@@ -88,6 +133,15 @@
       "title": "Anadolu Efes - Büyükçekmece",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
+    },
+    {
+      "date": "2026-05-08",
+      "time": "20:00",
+      "sport": "Tenis",
+      "league": "WTA Roma",
+      "title": "E.Navarro - E.Cocciaretto",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
     },
     {
       "date": "2026-05-08",
@@ -185,8 +239,8 @@
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
       "title": "Karşıyaka - Bursaspor",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
     },
     {
       "date": "2026-05-10",
@@ -203,8 +257,8 @@
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
       "title": "Tofaş - Petkimspor",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
     },
     {
       "date": "2026-05-10",
@@ -212,8 +266,8 @@
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
       "title": "Trabzonspor - Mersin Spor",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
+      "channel": "beIN SPORTS 4",
+      "stream_id": "12"
     },
     {
       "date": "2026-05-10",
@@ -232,15 +286,6 @@
       "title": "Crystal Palace - Everton",
       "channel": "beIN SPORTS 2",
       "stream_id": "95164"
-    },
-    {
-      "date": "2026-05-10",
-      "time": "18:00",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Bahçeşehir Klj - Fenerbahçe Beko",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
     },
     {
       "date": "2026-05-10",
