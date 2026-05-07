@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07 00:00",
+  "updated_at": "2026-05-07 18:15",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -45,12 +45,28 @@
   },
   "events": [
     {
-      "date": "2026-05-10",
+      "date": "2026-05-07",
       "time": "20:00",
       "sport": "Futbol",
-      "league": "Super Lig",
-      "title": "Ornek Takim - Ornek Takim",
-      "channel": "beIN SPORTS 1"
+      "league": "Trendyol 1. Lig Play Off",
+      "title": "Bodrumspor - Pendikspor",
+      "channel": "beIN SPORTS MAX 2"
+    },
+    {
+      "date": "2026-05-07",
+      "time": "20:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig Play Off",
+      "title": "Corum FK - Keciorengucu",
+      "channel": "beIN SPORTS 2"
+    },
+    {
+      "date": "2026-05-07",
+      "time": "21:00",
+      "sport": "Futbol",
+      "league": "Suudi Arabistan Pro Lig",
+      "title": "Al Shabab - Al Nassr",
+      "channel": "S SPORT PLUS"
     }
   ]
 }
