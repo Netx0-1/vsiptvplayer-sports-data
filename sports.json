@@ -1,5 +1,5 @@
 {
-  "updated_at": "08.05.2026 15:24",
+  "updated_at": "08.05.2026 21:26",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,51 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-05-08",
-      "time": "14:00",
-      "sport": "Tenis",
-      "league": "WTA Roma",
-      "title": "N.Osaka - E.Lys",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "14:30",
-      "sport": "Tenis",
-      "league": "WTA Roma",
-      "title": "J.Pegula - Zeynep Sönmez",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "16:00",
-      "sport": "Tenis",
-      "league": "WTA Roma",
-      "title": "T.C.Grant - V.Mboko",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "18:00",
-      "sport": "Tenis",
-      "league": "WTA Roma",
-      "title": "M.Sakkari - E.Rybakina",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "19:00",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Anadolu Efes - Büyükçekmece",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
     {
       "date": "2026-05-08",
       "time": "20:00",
