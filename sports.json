@@ -1,5 +1,5 @@
 {
-  "updated_at": "08.05.2026 09:33",
+  "updated_at": "08.05.2026 15:24",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,15 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-05-08",
-      "time": "12:00",
-      "sport": "Tenis",
-      "league": "WTA Roma",
-      "title": "C.McNally - I.Swiatek",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
     {
       "date": "2026-05-08",
       "time": "14:00",
