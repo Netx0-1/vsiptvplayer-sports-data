@@ -1,5 +1,5 @@
 {
-  "updated_at": "08.05.2026 21:26",
+  "updated_at": "09.05.2026 03:24",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,33 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-05-08",
-      "time": "20:00",
-      "sport": "Tenis",
-      "league": "WTA Roma",
-      "title": "E.Navarro - E.Cocciaretto",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "21:00",
-      "sport": "Hentbol",
-      "league": "Fransa Hentbol Ligi",
-      "title": "Fenix Toulouse - St.Raphael",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "21:45",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Lens - Nantes",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
-    },
     {
       "date": "2026-05-09",
       "time": "14:30",
