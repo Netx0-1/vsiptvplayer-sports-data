@@ -1,5 +1,5 @@
 {
-  "updated_at": "09.05.2026 15:15",
+  "updated_at": "09.05.2026 21:16",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,24 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-05-09",
-      "time": "14:30",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Liverpool - Chelsea",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
-      "date": "2026-05-09",
-      "time": "17:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Sunderland - Manchester Utd",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
     {
       "date": "2026-05-09",
       "time": "20:00",
