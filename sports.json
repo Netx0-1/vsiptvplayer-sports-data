@@ -1,5 +1,5 @@
 {
-  "updated_at": "10.05.2026 15:15",
+  "updated_at": "10.05.2026 21:16",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,78 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-05-10",
-      "time": "15:30",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Karşıyaka - Bursaspor",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-05-10",
-      "time": "15:30",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Manisa BB - Türk Telekom",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-05-10",
-      "time": "15:30",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Tofaş - Petkimspor",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-05-10",
-      "time": "15:30",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Trabzonspor - Mersin Spor",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
-    },
-    {
-      "date": "2026-05-10",
-      "time": "16:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Burnley - Aston Villa",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
-      "date": "2026-05-10",
-      "time": "16:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Crystal Palace - Everton",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-05-10",
-      "time": "18:00",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Beşiktaş GAİN - Galatasaray MCT Technic",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-05-10",
-      "time": "18:30",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "West Ham - Arsenal",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
     {
       "date": "2026-05-10",
       "time": "22:00",
