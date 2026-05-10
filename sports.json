@@ -1,5 +1,5 @@
 {
-  "updated_at": "10.05.2026 09:50",
+  "updated_at": "10.05.2026 15:15",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,15 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-05-10",
-      "time": "13:00",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Merkezefendi Bld. - Esenler Erokspor",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
     {
       "date": "2026-05-10",
       "time": "15:30",
