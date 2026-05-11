@@ -1,5 +1,5 @@
 {
-  "updated_at": "10.05.2026 21:16",
+  "updated_at": "11.05.2026 03:23",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,60 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-05-10",
-      "time": "22:00",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Auxerre - Nice",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-05-10",
-      "time": "22:00",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Le Havre - Marsilya",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-05-10",
-      "time": "22:00",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Monaco - Lille",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
-      "date": "2026-05-10",
-      "time": "22:00",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "PSG - Brest",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-05-10",
-      "time": "22:00",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Rennes - Paris FC",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-05-10",
-      "time": "22:00",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Toulouse - Lyon",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
-    },
     {
       "date": "2026-05-11",
       "time": "20:00",
