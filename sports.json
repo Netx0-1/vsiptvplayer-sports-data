@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.05.2026 21:34",
+  "updated_at": "12.05.2026 03:25",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,24 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-05-11",
-      "time": "20:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig Play Off",
-      "title": "Bodrumspor - Çorum FK",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-05-11",
-      "time": "22:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Tottenham - Leeds United",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
     {
       "date": "2026-05-16",
       "time": "15:30",
