@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.05.2026 09:53",
+  "updated_at": "12.05.2026 15:36",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,6 +44,24 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
+    {
+      "date": "2026-05-12",
+      "time": "21:30",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 2",
+      "title": "Red Star - Rodez",
+      "channel": "beIN SPORTS 4",
+      "stream_id": "12"
+    },
+    {
+      "date": "2026-05-13",
+      "time": "19:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Fenerbahçe Beko - Beşiktaş GAİN",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
     {
       "date": "2026-05-16",
       "time": "15:30",
