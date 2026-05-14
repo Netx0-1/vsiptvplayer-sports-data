@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.05.2026 21:34",
+  "updated_at": "14.05.2026 03:28",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -45,40 +45,22 @@
   },
   "events": [
     {
-      "date": "2026-05-13",
-      "time": "20:00",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Brest - Strasbourg",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
-    },
-    {
-      "date": "2026-05-13",
-      "time": "20:00",
+      "date": "2026-05-14",
+      "time": "16:00",
       "sport": "Tenis",
-      "league": "WTA Roma Çeyrek Final",
-      "title": "E.Svitolina - E.Rybakina",
+      "league": "WTA Roma Yarı Final",
+      "title": "S.Cirstea - C.Gauff",
       "channel": "beIN SPORTS MAX 1",
       "stream_id": "15"
     },
     {
-      "date": "2026-05-13",
-      "time": "22:00",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Lens - PSG",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
-    },
-    {
-      "date": "2026-05-13",
-      "time": "22:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Manchester City - Crystal Palace",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
+      "date": "2026-05-14",
+      "time": "21:30",
+      "sport": "Tenis",
+      "league": "WTA Roma Yarı Final",
+      "title": "I.Swiatek - E.Svitolina",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
     },
     {
       "date": "2026-05-16",
