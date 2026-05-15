@@ -1,5 +1,5 @@
 {
-  "updated_at": "14.05.2026 21:34",
+  "updated_at": "15.05.2026 03:25",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,15 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-05-14",
-      "time": "21:30",
-      "sport": "Tenis",
-      "league": "WTA Roma Yarı Final",
-      "title": "I.Swiatek - E.Svitolina",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
     {
       "date": "2026-05-15",
       "time": "20:00",
