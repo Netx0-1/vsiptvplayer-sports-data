@@ -1,5 +1,5 @@
 {
-  "updated_at": "15.05.2026 21:29",
+  "updated_at": "16.05.2026 03:23",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -45,42 +45,6 @@
   },
   "events": [
     {
-      "date": "2026-05-15",
-      "time": "20:00",
-      "sport": "Futbol",
-      "league": "Trendyol Süper Lig",
-      "title": "Ç.Rizespor - Beşiktaş",
-      "channel": "beIN SPORTS 1",
-      "stream_id": "9"
-    },
-    {
-      "date": "2026-05-15",
-      "time": "20:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig Play Off",
-      "title": "Çorum FK - Bodrumspor",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-05-15",
-      "time": "21:30",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 2 Play Off Yarı Final",
-      "title": "St. Etienne - Rodez",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
-    },
-    {
-      "date": "2026-05-15",
-      "time": "22:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Aston Villa - Liverpool",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
       "date": "2026-05-16",
       "time": "15:30",
       "sport": "Basketbol",
@@ -97,6 +61,15 @@
       "title": "Fatih Karagümrük - Alanyaspor",
       "channel": "beIN SPORTS 1",
       "stream_id": "9"
+    },
+    {
+      "date": "2026-05-16",
+      "time": "18:00",
+      "sport": "Tenis",
+      "league": "WTA Roma Final",
+      "title": "C.Gauff - E.Svitolina",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
     },
     {
       "date": "2026-05-16",
