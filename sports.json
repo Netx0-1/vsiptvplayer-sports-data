@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.05.2026 15:17",
+  "updated_at": "16.05.2026 21:16",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,33 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-05-16",
-      "time": "15:30",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Bahçeşehir Klj - Fenerbahçe Beko",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-05-16",
-      "time": "17:00",
-      "sport": "Futbol",
-      "league": "Trendyol Süper Lig",
-      "title": "Fatih Karagümrük - Alanyaspor",
-      "channel": "beIN SPORTS 1",
-      "stream_id": "9"
-    },
-    {
-      "date": "2026-05-16",
-      "time": "18:00",
-      "sport": "Tenis",
-      "league": "WTA Roma Final",
-      "title": "C.Gauff - E.Svitolina",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
     {
       "date": "2026-05-16",
       "time": "20:00",
