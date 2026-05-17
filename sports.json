@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.05.2026 21:16",
+  "updated_at": "17.05.2026 03:24",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,24 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-05-16",
-      "time": "20:00",
-      "sport": "Futbol",
-      "league": "Trendyol Süper Lig",
-      "title": "Gaziantep FK - Rams Başakşehir",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-05-16",
-      "time": "20:00",
-      "sport": "Futbol",
-      "league": "Trendyol Süper Lig",
-      "title": "Samsunspor - Göztepe",
-      "channel": "beIN SPORTS 1",
-      "stream_id": "9"
-    },
     {
       "date": "2026-05-17",
       "time": "14:30",
