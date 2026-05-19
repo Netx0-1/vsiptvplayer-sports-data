@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.05.2026 21:33",
+  "updated_at": "19.05.2026 03:28",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -43,15 +43,5 @@
     "BEINSPORTS MAX 1 4K": "339868",
     "BEINSPORTS MAX 2 4K": "339869"
   },
-  "events": [
-    {
-      "date": "2026-05-18",
-      "time": "22:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Arsenal - Burnley",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    }
-  ]
+  "events": []
 }
