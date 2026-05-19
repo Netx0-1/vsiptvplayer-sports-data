@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.05.2026 10:08",
+  "updated_at": "19.05.2026 15:58",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,6 +44,24 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
+    {
+      "date": "2026-05-19",
+      "time": "18:30",
+      "sport": "Tenis",
+      "league": "WTA Strasbourg",
+      "title": "V.Mboko - L.Boisson",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-05-19",
+      "time": "21:30",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Bournemouth - Manchester City",
+      "channel": "beIN SPORTS 4",
+      "stream_id": "12"
+    },
     {
       "date": "2026-05-19",
       "time": "22:15",
