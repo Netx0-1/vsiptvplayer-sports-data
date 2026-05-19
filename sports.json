@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.05.2026 15:58",
+  "updated_at": "19.05.2026 21:33",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -46,21 +46,12 @@
   "events": [
     {
       "date": "2026-05-19",
-      "time": "18:30",
-      "sport": "Tenis",
-      "league": "WTA Strasbourg",
-      "title": "V.Mboko - L.Boisson",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-05-19",
       "time": "21:30",
       "sport": "Futbol",
       "league": "İngiltere Premier Lig",
       "title": "Bournemouth - Manchester City",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
     },
     {
       "date": "2026-05-19",
@@ -70,6 +61,24 @@
       "title": "Chelsea - Tottenham",
       "channel": "beIN SPORTS 3",
       "stream_id": "11"
+    },
+    {
+      "date": "2026-05-26",
+      "time": "18:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi Play-Off Çeyrek Final",
+      "title": "Bahçeşehir Klj - Trabzonspor",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-05-26",
+      "time": "20:30",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi Play-Off Çeyrek Final",
+      "title": "Beşiktaş GAİN - Galatasaray MCT Technic",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
     }
   ]
 }
