@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.05.2026 10:07",
+  "updated_at": "20.05.2026 15:46",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,6 +44,24 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
+    {
+      "date": "2026-05-20",
+      "time": "14:30",
+      "sport": "Tenis",
+      "league": "WTA Rabat",
+      "title": "Y.Kabbaj - T.Maria",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-05-20",
+      "time": "16:00",
+      "sport": "Tenis",
+      "league": "WTA Rabat",
+      "title": "J.Tien - C.Wilda Hennemann",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
     {
       "date": "2026-05-26",
       "time": "18:00",
