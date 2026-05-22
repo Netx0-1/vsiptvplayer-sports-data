@@ -1,5 +1,5 @@
 {
-  "updated_at": "22.05.2026 15:44",
+  "updated_at": "22.05.2026 21:33",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,51 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-05-22",
-      "time": "15:00",
-      "sport": "Tenis",
-      "league": "WTA Rabat Yarı Final",
-      "title": "P.Udvardy - A.Kalinina",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-05-22",
-      "time": "15:30",
-      "sport": "Tenis",
-      "league": "WTA Strasbourg Yarı Final",
-      "title": "E.Navarro - A.Li",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-05-22",
-      "time": "16:30",
-      "sport": "Tenis",
-      "league": "WTA Rabat Yarı Final",
-      "title": "J.Teichmann - P.Marcinko",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-05-22",
-      "time": "17:30",
-      "sport": "Tenis",
-      "league": "WTA Strasbourg Yarı Final",
-      "title": "V.Mboko - J.Cristian",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-05-22",
-      "time": "18:15",
-      "sport": "Futbol",
-      "league": "Gambardella Kupasi",
-      "title": "PSG - Montpellier",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
     {
       "date": "2026-05-22",
       "time": "22:00",
@@ -194,6 +149,24 @@
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi Play-Off Çeyrek Final",
       "title": "Galatasaray MCT Technic - Beşiktaş GAİN",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-05-29",
+      "time": "18:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi Play-Off Çeyrek Final",
+      "title": "Türk Telekom - Anadolu Efes",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-05-29",
+      "time": "20:30",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi Play-Off Çeyrek Final",
+      "title": "Esenler Erokspor - Fenerbahçe Beko",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
     }
