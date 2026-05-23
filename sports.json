@@ -1,5 +1,5 @@
 {
-  "updated_at": "22.05.2026 21:33",
+  "updated_at": "23.05.2026 03:27",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -45,13 +45,22 @@
   },
   "events": [
     {
-      "date": "2026-05-22",
-      "time": "22:00",
-      "sport": "Futbol",
-      "league": "Fransa Kupasi Final",
-      "title": "Lens - Nice",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
+      "date": "2026-05-23",
+      "time": "15:00",
+      "sport": "Tenis",
+      "league": "WTA Rabat Final",
+      "title": "A.Kalinina - P.Marcinko",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-05-23",
+      "time": "15:00",
+      "sport": "Tenis",
+      "league": "WTA Strasbourg Final",
+      "title": "V.Mboko - E.Navarro",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
     },
     {
       "date": "2026-05-24",
