@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.05.2026 15:58",
+  "updated_at": "29.05.2026 21:49",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,33 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-05-29",
-      "time": "16:00",
-      "sport": "Padel",
-      "league": "Tanis Padel FIP Platinum",
-      "title": "Bengoechea/Villa - Ulrich/Segador",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-05-29",
-      "time": "18:00",
-      "sport": "Padel",
-      "league": "Tanis Padel FIP Platinum",
-      "title": "Nenno/Bautista - Gala/Sirvent",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-05-29",
-      "time": "18:00",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi Play-Off Çeyrek Final",
-      "title": "Türk Telekom - Anadolu Efes",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
     {
       "date": "2026-05-29",
       "time": "20:00",
