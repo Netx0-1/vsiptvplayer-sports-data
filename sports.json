@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.05.2026 21:20",
+  "updated_at": "31.05.2026 03:29",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -45,31 +45,58 @@
   },
   "events": [
     {
-      "date": "2026-05-30",
-      "time": "19:30",
-      "sport": "Padel",
-      "league": "Tanis Padel FIP Platinum Kadınlar Final",
-      "title": "Bengoechea/Villa - Espana/Virseda",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-05-30",
-      "time": "20:30",
+      "date": "2026-06-01",
+      "time": "20:00",
       "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi Play-Off Çeyrek Final",
-      "title": "Beşiktaş GAİN - Galatasaray MCT Technic",
+      "league": "Basketbol Süper Ligi Play-Off Yarı Final",
+      "title": "Fenerbahçe Beko - Anadolu Efes",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
     },
     {
-      "date": "2026-05-30",
-      "time": "21:30",
-      "sport": "Padel",
-      "league": "Tanis Padel FIP Platinum Erkekler Final",
-      "title": "Yanguas/Stupaczuk - Gala/Sirvent",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
+      "date": "2026-06-02",
+      "time": "20:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi Play-Off Yarı Final",
+      "title": "Beşiktaş GAİN - Bahçeşehir Klj",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-06-03",
+      "time": "20:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi Play-Off Yarı Final",
+      "title": "Fenerbahçe Beko - Anadolu Efes",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-06-04",
+      "time": "20:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi Play-Off Yarı Final",
+      "title": "Beşiktaş GAİN - Bahçeşehir Klj",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "20:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi Play-Off Yarı Final",
+      "title": "Anadolu Efes - Fenerbahçe Beko",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "20:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi Play-Off Yarı Final",
+      "title": "Bahçeşehir Klj - Beşiktaş GAİN",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
     }
   ]
 }
