@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.06.2026 15:23",
+  "updated_at": "06.06.2026 21:24",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -70,6 +70,24 @@
       "title": "PSG - Tremblay",
       "channel": "beIN SPORTS MAX 1",
       "stream_id": "15"
+    },
+    {
+      "date": "2026-06-07",
+      "time": "20:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi Play-Off Yarı Final",
+      "title": "Anadolu Efes - Fenerbahçe Beko",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-06-08",
+      "time": "20:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi Play-Off Yarı Final",
+      "title": "Bahçeşehir Klj - Beşiktaş GAİN",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
     }
   ]
 }
