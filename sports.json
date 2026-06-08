@@ -1,5 +1,5 @@
 {
-  "updated_at": "08.06.2026 16:23",
+  "updated_at": "08.06.2026 21:45",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,24 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-06-08",
-      "time": "15:00",
-      "sport": "Tenis",
-      "league": "WTA Londra",
-      "title": "Q.Zheng - J.Cristian",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "17:00",
-      "sport": "Tenis",
-      "league": "WTA Londra",
-      "title": "K.Boulter - L.Fernandez",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
     {
       "date": "2026-06-08",
       "time": "20:00",
