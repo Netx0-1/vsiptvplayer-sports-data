@@ -1,5 +1,5 @@
 {
-  "updated_at": "08.06.2026 21:45",
+  "updated_at": "09.06.2026 03:26",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -45,11 +45,29 @@
   },
   "events": [
     {
-      "date": "2026-06-08",
+      "date": "2026-06-09",
+      "time": "12:00",
+      "sport": "Tenis",
+      "league": "WTA Hertogenbosch",
+      "title": "K.Volynets - Zeynep Sönmez",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-06-09",
+      "time": "15:00",
+      "sport": "Tenis",
+      "league": "WTA Hertogenbosch",
+      "title": "Maleckova/Skoch - Chan/Sönmez",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-06-10",
       "time": "20:00",
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi Play-Off Yarı Final",
-      "title": "Bahçeşehir Klj - Beşiktaş GAİN",
+      "title": "Beşiktaş GAİN - Bahçeşehir Klj",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
     }
