@@ -1,5 +1,5 @@
 {
-  "updated_at": "09.06.2026 15:54",
+  "updated_at": "09.06.2026 21:40",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,42 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-06-09",
-      "time": "15:00",
-      "sport": "Tenis",
-      "league": "WTA Londra",
-      "title": "K.Boulter - L.Fernandez",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-06-09",
-      "time": "15:00",
-      "sport": "Tenis",
-      "league": "WTA Hertogenbosch",
-      "title": "Maleckova/Skoch - Chan/Sönmez",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-06-09",
-      "time": "17:00",
-      "sport": "Tenis",
-      "league": "WTA Londra",
-      "title": "M.Stojsavljevic - M.Kostyuk",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-06-09",
-      "time": "19:30",
-      "sport": "Tenis",
-      "league": "WTA Londra",
-      "title": "Mboko/Williams - Martinez/Routliffe",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
     {
       "date": "2026-06-10",
       "time": "20:00",
