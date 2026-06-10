@@ -1,5 +1,5 @@
 {
-  "updated_at": "10.06.2026 16:03",
+  "updated_at": "10.06.2026 21:49",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,33 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-06-10",
-      "time": "14:30",
-      "sport": "Tenis",
-      "league": "WTA Londra",
-      "title": "L.Siegemund - A.Anisimova",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-06-10",
-      "time": "17:30",
-      "sport": "Tenis",
-      "league": "WTA Londra",
-      "title": "V.Mboko - K.Pliskova",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-06-10",
-      "time": "19:30",
-      "sport": "Tenis",
-      "league": "WTA Londra",
-      "title": "M.Bouzkova - D.Vekic",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
     {
       "date": "2026-06-10",
       "time": "20:00",
