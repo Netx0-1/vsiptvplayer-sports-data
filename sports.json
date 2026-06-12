@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.06.2026 16:02",
+  "updated_at": "12.06.2026 21:36",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,24 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-06-12",
-      "time": "14:30",
-      "sport": "Tenis",
-      "league": "WTA Londra",
-      "title": "S.Cirstea - E.Raducanu",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "16:00",
-      "sport": "Tenis",
-      "league": "WTA Londra",
-      "title": "I.Jovic - A.Anisimova",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
     {
       "date": "2026-06-13",
       "time": "20:00",
