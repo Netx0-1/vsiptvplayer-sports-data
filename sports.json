@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.06.2026 15:31",
+  "updated_at": "13.06.2026 21:25",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,15 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-06-13",
-      "time": "15:30",
-      "sport": "Tenis",
-      "league": "WTA Londra",
-      "title": "K.Boulter - D.Vekic",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
     {
       "date": "2026-06-13",
       "time": "20:00",
