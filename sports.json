@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.06.2026 21:36",
+  "updated_at": "13.06.2026 03:35",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,6 +44,15 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
+    {
+      "date": "2026-06-13",
+      "time": "12:00",
+      "sport": "Tenis",
+      "league": "WTA Hertogenbosch Yarı Final",
+      "title": "B.Krejcikova - M.Linette",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
     {
       "date": "2026-06-13",
       "time": "20:00",
