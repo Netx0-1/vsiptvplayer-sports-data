@@ -1,5 +1,5 @@
 {
-  "updated_at": "14.06.2026 10:31",
+  "updated_at": "14.06.2026 15:34",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,15 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-06-14",
-      "time": "13:00",
-      "sport": "Tenis",
-      "league": "WTA Hertogenbosch Final",
-      "title": "R.Montgomery - B.Krejcikova",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
     {
       "date": "2026-06-14",
       "time": "15:30",
