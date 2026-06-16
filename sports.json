@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.06.2026 03:39",
+  "updated_at": "16.06.2026 10:51",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -73,6 +73,15 @@
     },
     {
       "date": "2026-06-17",
+      "time": "20:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi Play-Off Final",
+      "title": "Beşiktaş GAİN - Fenerbahçe Beko",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-06-19",
       "time": "20:00",
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi Play-Off Final",
