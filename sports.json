@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.06.2026 10:16",
+  "updated_at": "20.06.2026 15:32",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -43,5 +43,24 @@
     "BEINSPORTS MAX 1 4K": "339868",
     "BEINSPORTS MAX 2 4K": "339869"
   },
-  "events": []
+  "events": [
+    {
+      "date": "2026-06-20",
+      "time": "14:30",
+      "sport": "Tenis",
+      "league": "WTA Nottingham Yarı Final",
+      "title": "E.Navarro - V.Golubic",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-06-20",
+      "time": "15:00",
+      "sport": "Tenis",
+      "league": "WTA Berlin Yarı Final",
+      "title": "L.Noskova - A.Eala",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    }
+  ]
 }
