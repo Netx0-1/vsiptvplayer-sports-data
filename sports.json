@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.06.2026 10:33",
+  "updated_at": "21.06.2026 15:35",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -46,12 +46,12 @@
   "events": [
     {
       "date": "2026-06-21",
-      "time": "13:00",
+      "time": "14:00",
       "sport": "Tenis",
-      "league": "WTA Berlin Final",
-      "title": "J.Pegula - L.Noskova",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
+      "league": "WTA Nottingham Final",
+      "title": "M.Bouzkova - E.Navarro",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
     }
   ]
 }
