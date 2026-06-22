@@ -1,5 +1,5 @@
 {
-  "updated_at": "22.06.2026 10:52",
+  "updated_at": "22.06.2026 16:50",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -43,5 +43,24 @@
     "BEINSPORTS MAX 1 4K": "339868",
     "BEINSPORTS MAX 2 4K": "339869"
   },
-  "events": []
+  "events": [
+    {
+      "date": "2026-06-22",
+      "time": "15:00",
+      "sport": "Tenis",
+      "league": "WTA Bad Homburg",
+      "title": "S.Sierra - Q.Zheng",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-06-22",
+      "time": "16:30",
+      "sport": "Tenis",
+      "league": "WTA Bad Homburg",
+      "title": "V.Williams - I.Begu",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    }
+  ]
 }
