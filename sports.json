@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.06.2026 15:40",
+  "updated_at": "24.06.2026 21:33",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -43,33 +43,5 @@
     "BEINSPORTS MAX 1 4K": "339868",
     "BEINSPORTS MAX 2 4K": "339869"
   },
-  "events": [
-    {
-      "date": "2026-06-24",
-      "time": "15:00",
-      "sport": "Tenis",
-      "league": "WTA Eastbourne",
-      "title": "J.Ostapenko - P.Udvardy",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-06-24",
-      "time": "16:30",
-      "sport": "Tenis",
-      "league": "WTA Bad Homburg",
-      "title": "I.Swiatek - E.Navarro",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-06-24",
-      "time": "16:30",
-      "sport": "Tenis",
-      "league": "WTA Eastbourne",
-      "title": "Zeynep Sönmez - S.Bejlek",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    }
-  ]
+  "events": []
 }
