@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.06.2026 10:06",
+  "updated_at": "25.06.2026 15:43",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,15 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-06-25",
-      "time": "13:00",
-      "sport": "Tenis",
-      "league": "WTA Eastbourne",
-      "title": "J.Ostapenko - Zeynep Sönmez",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
     {
       "date": "2026-06-25",
       "time": "14:30",
