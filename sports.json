@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.06.2026 15:38",
+  "updated_at": "26.06.2026 21:32",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -43,33 +43,5 @@
     "BEINSPORTS MAX 1 4K": "339868",
     "BEINSPORTS MAX 2 4K": "339869"
   },
-  "events": [
-    {
-      "date": "2026-06-26",
-      "time": "14:00",
-      "sport": "Tenis",
-      "league": "WTA Eastbourne Yarı Final",
-      "title": "P.Marcinko - M.Keys",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-06-26",
-      "time": "14:00",
-      "sport": "Tenis",
-      "league": "WTA Bad Homburg Yarı Final",
-      "title": "X.Wang - N.Osaka",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-06-26",
-      "time": "16:00",
-      "sport": "Tenis",
-      "league": "WTA Bad Homburg Yarı Final",
-      "title": "E.G.Ruse - K.Muchova",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    }
-  ]
+  "events": []
 }
