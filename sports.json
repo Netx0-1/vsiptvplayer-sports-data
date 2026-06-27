@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.06.2026 15:23",
+  "updated_at": "27.06.2026 21:22",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -43,15 +43,5 @@
     "BEINSPORTS MAX 1 4K": "339868",
     "BEINSPORTS MAX 2 4K": "339869"
   },
-  "events": [
-    {
-      "date": "2026-06-27",
-      "time": "14:00",
-      "sport": "Tenis",
-      "league": "WTA Eastbourne Final",
-      "title": "T.Maria - M.Keys",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    }
-  ]
+  "events": []
 }
