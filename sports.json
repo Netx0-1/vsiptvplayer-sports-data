@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.06.2026 21:37",
+  "updated_at": "30.06.2026 03:30",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -43,5 +43,24 @@
     "BEINSPORTS MAX 1 4K": "339868",
     "BEINSPORTS MAX 2 4K": "339869"
   },
-  "events": []
+  "events": [
+    {
+      "date": "2026-06-30",
+      "time": "17:00",
+      "sport": "Padel",
+      "league": "Premier Padel",
+      "title": "Casas/Garcia - Granados/Esbri",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-06-30",
+      "time": "19:00",
+      "sport": "Padel",
+      "league": "Premier Padel",
+      "title": "Alonso/Lacabe - Blasco/Gutierrez",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    }
+  ]
 }
