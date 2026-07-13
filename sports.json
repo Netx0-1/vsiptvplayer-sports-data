@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.07.2026 21:50",
+  "updated_at": "13.07.2026 04:49",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -43,5 +43,33 @@
     "BEINSPORTS MAX 1 4K": "339868",
     "BEINSPORTS MAX 2 4K": "339869"
   },
-  "events": []
+  "events": [
+    {
+      "date": "2026-07-13",
+      "time": "10:00",
+      "sport": "Padel",
+      "league": "Premier Padel",
+      "title": "Gala/Sirvent - Ruiz/Ortega",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-07-13",
+      "time": "11:30",
+      "sport": "Padel",
+      "league": "Premier Padel",
+      "title": "Ruiz/Gil - Cabello/Garcia",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-07-13",
+      "time": "13:00",
+      "sport": "Padel",
+      "league": "Premier Padel",
+      "title": "Mena/Archieri - Blasco/Gutierrez",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    }
+  ]
 }
