@@ -1,5 +1,5 @@
 {
-  "updated_at": "15.07.2026 10:49",
+  "updated_at": "15.07.2026 16:11",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -43,24 +43,5 @@
     "BEINSPORTS MAX 1 4K": "339868",
     "BEINSPORTS MAX 2 4K": "339869"
   },
-  "events": [
-    {
-      "date": "2026-07-15",
-      "time": "11:00",
-      "sport": "Padel",
-      "league": "Premier Padel",
-      "title": "Gallego/Calvo - Cabruja/Fuente",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-07-15",
-      "time": "12:30",
-      "sport": "Padel",
-      "league": "Premier Padel",
-      "title": "Marmolejo/Pereyra - Yanguas/Stupaczuk",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    }
-  ]
+  "events": []
 }
