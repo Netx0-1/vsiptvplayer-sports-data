@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.07.2026 10:55",
+  "updated_at": "16.07.2026 16:19",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -46,28 +46,19 @@
   "events": [
     {
       "date": "2026-07-16",
-      "time": "11:00",
-      "sport": "Padel",
-      "league": "Premier Padel",
-      "title": "Collombon/Sharifova - Sanchez/Araujo",
+      "time": "19:30",
+      "sport": "Tenis",
+      "league": "WTA Atina",
+      "title": "B.Krejcikova - C.Monnet",
       "channel": "beIN SPORTS MAX 1",
       "stream_id": "15"
     },
     {
       "date": "2026-07-16",
-      "time": "12:30",
-      "sport": "Padel",
-      "league": "Premier Padel",
-      "title": "Senesi/Pons - Ortiz/Segador",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-07-16",
-      "time": "14:00",
-      "sport": "Padel",
-      "league": "Premier Padel",
-      "title": "Garrido/Bergamini - Yanguas/Stupaczuk",
+      "time": "21:00",
+      "sport": "Tenis",
+      "league": "WTA Atina",
+      "title": "C.Tauson - M.Tona",
       "channel": "beIN SPORTS MAX 1",
       "stream_id": "15"
     }
