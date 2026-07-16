@@ -1,5 +1,5 @@
 {
-  "updated_at": "15.07.2026 21:54",
+  "updated_at": "16.07.2026 04:43",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -43,5 +43,33 @@
     "BEINSPORTS MAX 1 4K": "339868",
     "BEINSPORTS MAX 2 4K": "339869"
   },
-  "events": []
+  "events": [
+    {
+      "date": "2026-07-16",
+      "time": "11:00",
+      "sport": "Padel",
+      "league": "Premier Padel",
+      "title": "Collombon/Sharifova - Sanchez/Araujo",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-07-16",
+      "time": "12:30",
+      "sport": "Padel",
+      "league": "Premier Padel",
+      "title": "Senesi/Pons - Ortiz/Segador",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-07-16",
+      "time": "14:00",
+      "sport": "Padel",
+      "league": "Premier Padel",
+      "title": "Garrido/Bergamini - Yanguas/Stupaczuk",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    }
+  ]
 }
