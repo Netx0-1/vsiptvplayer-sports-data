@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.07.2026 11:10",
+  "updated_at": "23.07.2026 16:23",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -43,33 +43,5 @@
     "BEINSPORTS MAX 1 4K": "339868",
     "BEINSPORTS MAX 2 4K": "339869"
   },
-  "events": [
-    {
-      "date": "2026-07-23",
-      "time": "12:00",
-      "sport": "Tenis",
-      "league": "WTA Hamburg",
-      "title": "M.Sherif - E.Jacquemot",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-07-23",
-      "time": "12:00",
-      "sport": "Tenis",
-      "league": "WTA Prag",
-      "title": "N.Bartunkova - L.Tararudee",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-07-23",
-      "time": "13:30",
-      "sport": "Tenis",
-      "league": "WTA Prag",
-      "title": "M.Hontama - L.Tagger",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    }
-  ]
+  "events": []
 }
