@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.07.2026 11:06",
+  "updated_at": "24.07.2026 16:16",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -43,33 +43,5 @@
     "BEINSPORTS MAX 1 4K": "339868",
     "BEINSPORTS MAX 2 4K": "339869"
   },
-  "events": [
-    {
-      "date": "2026-07-24",
-      "time": "12:00",
-      "sport": "Tenis",
-      "league": "WTA Hamburg",
-      "title": "A.Bondar - A.Charaeva",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-07-24",
-      "time": "12:00",
-      "sport": "Tenis",
-      "league": "WTA Prag Çeyrek Final",
-      "title": "L.Tararudee - D.Snigur",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-07-24",
-      "time": "13:30",
-      "sport": "Tenis",
-      "league": "WTA Prag Çeyrek Final",
-      "title": "M.Bouzkova - T.Valentova",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    }
-  ]
+  "events": []
 }
