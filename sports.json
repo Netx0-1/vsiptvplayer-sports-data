@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.07.2026 04:41",
+  "updated_at": "29.07.2026 11:19",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -43,5 +43,15 @@
     "BEINSPORTS MAX 1 4K": "339868",
     "BEINSPORTS MAX 2 4K": "339869"
   },
-  "events": []
+  "events": [
+    {
+      "date": "2026-07-29",
+      "time": "22:00",
+      "sport": "Tenis",
+      "league": "WTA Memphis",
+      "title": "Zeynep Sönmez - E.Kalieva",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    }
+  ]
 }
