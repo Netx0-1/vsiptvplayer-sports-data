@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.08.2026 11:02",
+  "updated_at": "01.08.2026 15:55",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -79,6 +79,24 @@
       "title": "Coello/Tapia - Leal/Guerrero",
       "channel": "beIN SPORTS MAX 2",
       "stream_id": "17"
+    },
+    {
+      "date": "2026-08-01",
+      "time": "21:00",
+      "sport": "Tenis",
+      "league": "WTA Washington Yarı Final",
+      "title": "J.Pegula - D.Shnaider",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-08-01",
+      "time": "22:30",
+      "sport": "Tenis",
+      "league": "WTA Washington Yarı Final",
+      "title": "N.Osaka - A.Eala",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
     }
   ]
 }
