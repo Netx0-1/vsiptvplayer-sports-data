@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.07.2026 22:07",
+  "updated_at": "01.08.2026 04:52",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -43,33 +43,5 @@
     "BEINSPORTS MAX 1 4K": "339868",
     "BEINSPORTS MAX 2 4K": "339869"
   },
-  "events": [
-    {
-      "date": "2026-07-31",
-      "time": "21:00",
-      "sport": "Tenis",
-      "league": "WTA Washington Çeyrek Final",
-      "title": "E.Cocciaretto - N.Osaka",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-07-31",
-      "time": "22:30",
-      "sport": "Tenis",
-      "league": "WTA Washington Çeyrek Final",
-      "title": "D.Shnaider - L.Samsonova",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-08-01",
-      "time": "01:30",
-      "sport": "Tenis",
-      "league": "WTA Washington Çeyrek Final",
-      "title": "A.Eala - E.Svitolina",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    }
-  ]
+  "events": []
 }
