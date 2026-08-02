@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.08.2026 21:54",
+  "updated_at": "02.08.2026 04:49",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -45,29 +45,11 @@
   },
   "events": [
     {
-      "date": "2026-08-01",
-      "time": "20:00",
-      "sport": "Padel",
-      "league": "Premier Padel Erkekler Yarı Final",
-      "title": "Coello/Tapia - Leal/Guerrero",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-08-01",
-      "time": "21:00",
+      "date": "2026-08-03",
+      "time": "00:00",
       "sport": "Tenis",
-      "league": "WTA Washington Yarı Final",
-      "title": "J.Pegula - D.Shnaider",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-08-01",
-      "time": "22:30",
-      "sport": "Tenis",
-      "league": "WTA Washington Yarı Final",
-      "title": "N.Osaka - A.Eala",
+      "league": "WTA Washington Final",
+      "title": "J.Pegula - A.Eala",
       "channel": "beIN SPORTS MAX 1",
       "stream_id": "15"
     }
