@@ -1,5 +1,5 @@
 {
-  "updated_at": "03.08.2026 17:14",
+  "updated_at": "03.08.2026 22:18",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,24 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-08-03",
-      "time": "19:00",
-      "sport": "Tenis",
-      "league": "WTA Washington Final",
-      "title": "J.Pegula - A.Eala",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "19:30",
-      "sport": "Tenis",
-      "league": "WTA Toronto",
-      "title": "K.Boulter - K.Cross",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
     {
       "date": "2026-08-04",
       "time": "02:00",
