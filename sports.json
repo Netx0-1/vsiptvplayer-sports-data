@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.08.2026 16:40",
+  "updated_at": "07.08.2026 02:49",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -43,24 +43,5 @@
     "BEINSPORTS MAX 1 4K": "339868",
     "BEINSPORTS MAX 2 4K": "339869"
   },
-  "events": [
-    {
-      "date": "2026-08-06",
-      "time": "19:30",
-      "sport": "Tenis",
-      "league": "WTA Toronto",
-      "title": "V.Golubic - I.Swiatek",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-08-06",
-      "time": "21:00",
-      "sport": "Tenis",
-      "league": "WTA Toronto",
-      "title": "J.Pegula - K.Rakhimova",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    }
-  ]
+  "events": []
 }
