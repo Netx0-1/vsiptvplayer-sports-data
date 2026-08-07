@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.08.2026 15:39",
+  "updated_at": "07.08.2026 21:39",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -46,42 +46,6 @@
   "events": [
     {
       "date": "2026-08-07",
-      "time": "14:00",
-      "sport": "Padel",
-      "league": "Premier Padel Kadınlar Çeyrek Final",
-      "title": "Sanchez/Garcia - Prieto/Fallada",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-08-07",
-      "time": "16:00",
-      "sport": "Padel",
-      "league": "Premier Padel Erkekler Çeyrek Final",
-      "title": "Coello/Tapia - Teres/Martin",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-08-07",
-      "time": "17:30",
-      "sport": "Padel",
-      "league": "Premier Padel Kadınlar Çeyrek Final",
-      "title": "Senesi/Pons - Gallego/Araujo",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-08-07",
-      "time": "19:30",
-      "sport": "Padel",
-      "league": "Premier Padel Erkekler Çeyrek Final",
-      "title": "Gonzalez/Campagnolo - Chingotto/Galan",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-08-07",
       "time": "21:30",
       "sport": "Padel",
       "league": "Premier Padel Erkekler Çeyrek Final",
@@ -124,6 +88,24 @@
       "title": "Antalyaspor - Keçiörengücü",
       "channel": "beIN SPORTS 2",
       "stream_id": "95164"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "21:45",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 2",
+      "title": "Nantes - Red Star",
+      "channel": "beIN SPORTS 4",
+      "stream_id": "12"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "21:45",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 2",
+      "title": "Sochaux - St. Etienne",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
     },
     {
       "date": "2026-08-08",
