@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.08.2026 09:59",
+  "updated_at": "07.08.2026 15:39",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -43,5 +43,159 @@
     "BEINSPORTS MAX 1 4K": "339868",
     "BEINSPORTS MAX 2 4K": "339869"
   },
-  "events": []
+  "events": [
+    {
+      "date": "2026-08-07",
+      "time": "14:00",
+      "sport": "Padel",
+      "league": "Premier Padel Kadınlar Çeyrek Final",
+      "title": "Sanchez/Garcia - Prieto/Fallada",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "16:00",
+      "sport": "Padel",
+      "league": "Premier Padel Erkekler Çeyrek Final",
+      "title": "Coello/Tapia - Teres/Martin",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "17:30",
+      "sport": "Padel",
+      "league": "Premier Padel Kadınlar Çeyrek Final",
+      "title": "Senesi/Pons - Gallego/Araujo",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "19:30",
+      "sport": "Padel",
+      "league": "Premier Padel Erkekler Çeyrek Final",
+      "title": "Gonzalez/Campagnolo - Chingotto/Galan",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:30",
+      "sport": "Padel",
+      "league": "Premier Padel Erkekler Çeyrek Final",
+      "title": "Augsburger/Lebron - Ruiz/Sanz",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:30",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Boluspor - Manisa FK",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "17:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Bandırmaspor - İstanbulspor",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "19:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Sivasspor - Esenler Erokspor",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "21:30",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Antalyaspor - Keçiörengücü",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "22:30",
+      "sport": "Futbol",
+      "league": "Portekiz Liga NOS",
+      "title": "Estrela - Sporting Lisbon",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
+      "date": "2026-08-09",
+      "time": "19:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Iğdırspor - Karagümrük",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-08-09",
+      "time": "19:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Sarıyer - Muğlaspor",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-08-09",
+      "time": "20:00",
+      "sport": "Futbol",
+      "league": "Portekiz Liga NOS",
+      "title": "Porto - Alverca",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
+      "date": "2026-08-09",
+      "time": "21:30",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Bodrumspor - Bursaspor",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-08-09",
+      "time": "21:30",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Vanspor - Kayserispor",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-08-09",
+      "time": "22:30",
+      "sport": "Futbol",
+      "league": "Portekiz Liga NOS",
+      "title": "Benfica - Academico Viseu",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "21:30",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Pendikspor - Batman Petrol",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    }
+  ]
 }
