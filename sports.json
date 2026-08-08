@@ -1,5 +1,5 @@
 {
-  "updated_at": "08.08.2026 09:33",
+  "updated_at": "08.08.2026 15:26",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -46,6 +46,24 @@
   "events": [
     {
       "date": "2026-08-08",
+      "time": "14:00",
+      "sport": "Padel",
+      "league": "Premier Padel Kadınlar Yarı Final",
+      "title": "Sanchez/Calvo - Martin/Fernandez",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "16:00",
+      "sport": "Padel",
+      "league": "Premier Padel Kadınlar Yarı Final",
+      "title": "Senesi/Pons - Prieto/Fallada",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-08-08",
       "time": "17:00",
       "sport": "Futbol",
       "league": "Trendyol 1. Lig",
@@ -55,12 +73,30 @@
     },
     {
       "date": "2026-08-08",
+      "time": "17:30",
+      "sport": "Padel",
+      "league": "Premier Padel Erkekler Yarı Final",
+      "title": "Coello/Tapia - Nenno/Navarro",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-08-08",
       "time": "19:00",
       "sport": "Futbol",
       "league": "Trendyol 1. Lig",
       "title": "Sivasspor - Esenler Erokspor",
       "channel": "beIN SPORTS 2",
       "stream_id": "95164"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "19:30",
+      "sport": "Padel",
+      "league": "Premier Padel Erkekler Yarı Final",
+      "title": "Augsburger/Lebron - Chingotto/Galan",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
     },
     {
       "date": "2026-08-08",
