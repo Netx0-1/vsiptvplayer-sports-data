@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.08.2026 21:39",
+  "updated_at": "08.08.2026 03:52",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,24 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-08-07",
-      "time": "21:30",
-      "sport": "Padel",
-      "league": "Premier Padel Erkekler Çeyrek Final",
-      "title": "Augsburger/Lebron - Ruiz/Sanz",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-08-07",
-      "time": "21:30",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Boluspor - Manisa FK",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
     {
       "date": "2026-08-08",
       "time": "17:00",
