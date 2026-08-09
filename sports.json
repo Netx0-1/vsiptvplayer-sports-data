@@ -1,5 +1,5 @@
 {
-  "updated_at": "08.08.2026 21:21",
+  "updated_at": "09.08.2026 03:55",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,51 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-08-08",
-      "time": "19:30",
-      "sport": "Padel",
-      "league": "Premier Padel Erkekler Yarı Final",
-      "title": "Augsburger/Lebron - Chingotto/Galan",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-08-08",
-      "time": "21:30",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Antalyaspor - Keçiörengücü",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-08-08",
-      "time": "21:45",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 2",
-      "title": "Nantes - Red Star",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
-    },
-    {
-      "date": "2026-08-08",
-      "time": "21:45",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 2",
-      "title": "Sochaux - St. Etienne",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-08-08",
-      "time": "22:30",
-      "sport": "Futbol",
-      "league": "Portekiz Liga NOS",
-      "title": "Estrela - Sporting Lisbon",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
     {
       "date": "2026-08-09",
       "time": "19:00",
