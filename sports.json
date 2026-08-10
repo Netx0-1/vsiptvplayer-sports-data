@@ -1,5 +1,5 @@
 {
-  "updated_at": "09.08.2026 21:24",
+  "updated_at": "10.08.2026 03:57",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,60 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-08-09",
-      "time": "19:30",
-      "sport": "Tenis",
-      "league": "WTA Toronto",
-      "title": "L.Samsonova - E.Rybakina",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "20:00",
-      "sport": "Futbol",
-      "league": "Portekiz Liga NOS",
-      "title": "Porto - Alverca",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "21:00",
-      "sport": "Tenis",
-      "league": "WTA Toronto",
-      "title": "A.Korneeva - C.Gauff",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "21:30",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Bodrumspor - Bursaspor",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "21:30",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Vanspor - Kayserispor",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "22:30",
-      "sport": "Futbol",
-      "league": "Portekiz Liga NOS",
-      "title": "Benfica - Academico Viseu",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
     {
       "date": "2026-08-10",
       "time": "02:00",
