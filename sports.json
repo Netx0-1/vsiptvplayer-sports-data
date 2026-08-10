@@ -1,5 +1,5 @@
 {
-  "updated_at": "10.08.2026 03:57",
+  "updated_at": "10.08.2026 10:09",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,24 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-08-10",
-      "time": "02:00",
-      "sport": "Tenis",
-      "league": "WTA Toronto",
-      "title": "L.Fernandez - N.Osaka",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-08-10",
-      "time": "03:30",
-      "sport": "Tenis",
-      "league": "WTA Toronto",
-      "title": "A.Eala - B.Bencic",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
     {
       "date": "2026-08-10",
       "time": "21:30",
