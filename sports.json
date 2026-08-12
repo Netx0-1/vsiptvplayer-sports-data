@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.08.2026 21:46",
+  "updated_at": "12.08.2026 04:03",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -46,21 +46,21 @@
   "events": [
     {
       "date": "2026-08-12",
-      "time": "02:00",
-      "sport": "Tenis",
-      "league": "WTA Toronto Çeyrek Final",
-      "title": "B.Bencic - C.Gauff",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-08-12",
       "time": "03:30",
       "sport": "Tenis",
       "league": "WTA Toronto Çeyrek Final",
       "title": "N.Osaka - E.Rybakina",
       "channel": "beIN SPORTS MAX 1",
       "stream_id": "15"
+    },
+    {
+      "date": "2026-08-14",
+      "time": "22:15",
+      "sport": "Futbol",
+      "league": "Portekiz Liga NOS",
+      "title": "Sporting Lisbon - Guimaraes",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
     },
     {
       "date": "2026-08-15",
@@ -81,6 +81,15 @@
       "stream_id": "95164"
     },
     {
+      "date": "2026-08-15",
+      "time": "22:30",
+      "sport": "Futbol",
+      "league": "Portekiz Liga NOS",
+      "title": "Rio Ave - Porto",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
       "date": "2026-08-16",
       "time": "21:30",
       "sport": "Futbol",
@@ -88,6 +97,15 @@
       "title": "Amedspor - Erzurumspor",
       "channel": "beIN SPORTS 2",
       "stream_id": "95164"
+    },
+    {
+      "date": "2026-08-17",
+      "time": "22:30",
+      "sport": "Futbol",
+      "league": "Portekiz Liga NOS",
+      "title": "Casa Pia - Benfica",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
     }
   ]
 }
