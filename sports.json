@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.08.2026 04:05",
+  "updated_at": "13.08.2026 10:11",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,15 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-08-13",
-      "time": "03:30",
-      "sport": "Tenis",
-      "league": "WTA Toronto Yarı Final",
-      "title": "C.Gauff - E.Rybakina",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
     {
       "date": "2026-08-14",
       "time": "22:15",
