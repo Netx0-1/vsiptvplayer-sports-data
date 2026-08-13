@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.08.2026 10:11",
+  "updated_at": "13.08.2026 15:44",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -45,6 +45,51 @@
   },
   "events": [
     {
+      "date": "2026-08-13",
+      "time": "18:00",
+      "sport": "Tenis",
+      "league": "WTA Cincinnati",
+      "title": "D.Kasatkina - Zeynep Sönmez",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-08-14",
+      "time": "01:00",
+      "sport": "Tenis",
+      "league": "WTA Toronto Final",
+      "title": "I.Swiatek - E.Rybakina",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-08-14",
+      "time": "21:30",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Esenler Erokspor - Sarıyer",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-08-14",
+      "time": "21:45",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 2",
+      "title": "Reims - Dunkerque HB",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-08-14",
+      "time": "21:45",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 2",
+      "title": "St. Etienne - Clermont",
+      "channel": "beIN SPORTS 4",
+      "stream_id": "12"
+    },
+    {
       "date": "2026-08-14",
       "time": "22:15",
       "sport": "Futbol",
@@ -52,6 +97,15 @@
       "title": "Sporting Lisbon - Guimaraes",
       "channel": "beIN SPORTS 3",
       "stream_id": "11"
+    },
+    {
+      "date": "2026-08-15",
+      "time": "19:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Karagümrük - Ümraniyespor",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
     },
     {
       "date": "2026-08-15",
@@ -66,10 +120,28 @@
       "date": "2026-08-15",
       "time": "21:30",
       "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Bursaspor - Iğdırspor",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-08-15",
+      "time": "21:30",
+      "sport": "Futbol",
       "league": "Trendyol Süper Lig",
       "title": "Gaziantep FK - Alanyaspor",
       "channel": "beIN SPORTS 2",
       "stream_id": "95164"
+    },
+    {
+      "date": "2026-08-15",
+      "time": "21:30",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Manisa FK - Vanspor",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
     },
     {
       "date": "2026-08-15",
@@ -82,6 +154,24 @@
     },
     {
       "date": "2026-08-16",
+      "time": "19:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Kayserispor - Sivasspor",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-08-16",
+      "time": "19:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Keçiörengücü - Pendikspor",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-08-16",
       "time": "21:30",
       "sport": "Futbol",
       "league": "Trendyol Süper Lig",
@@ -90,8 +180,44 @@
       "stream_id": "95164"
     },
     {
+      "date": "2026-08-16",
+      "time": "21:30",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Mardin 1969 - Antalyaspor",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-08-16",
+      "time": "21:30",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Muğlaspor - Bandırmaspor",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-08-16",
+      "time": "21:45",
+      "sport": "Futbol",
+      "league": "Fransa Süper Kupasi",
+      "title": "Lens - PSG",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
       "date": "2026-08-17",
-      "time": "22:30",
+      "time": "21:30",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Batman Petrol - Boluspor",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-08-17",
+      "time": "22:15",
       "sport": "Futbol",
       "league": "Portekiz Liga NOS",
       "title": "Casa Pia - Benfica",
