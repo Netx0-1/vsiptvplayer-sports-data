@@ -1,5 +1,5 @@
 {
-  "updated_at": "15.08.2026 15:17",
+  "updated_at": "15.08.2026 21:13",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,33 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-08-15",
-      "time": "18:00",
-      "sport": "Tenis",
-      "league": "WTA Cincinnati",
-      "title": "Zeynep Sönmez - A.Anisimova",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-08-15",
-      "time": "19:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Karagümrük - Ümraniyespor",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-08-15",
-      "time": "19:00",
-      "sport": "Futbol",
-      "league": "Trendyol Süper Lig",
-      "title": "Konyaspor - Ç.Rizespor",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
     {
       "date": "2026-08-15",
       "time": "21:30",
@@ -196,6 +169,15 @@
       "title": "Casa Pia - Benfica",
       "channel": "beIN SPORTS 3",
       "stream_id": "11"
+    },
+    {
+      "date": "2026-08-22",
+      "time": "19:00",
+      "sport": "Futbol",
+      "league": "Trendyol Süper Lig",
+      "title": "Çorum FK - Kasımpaşa",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
     }
   ]
 }
