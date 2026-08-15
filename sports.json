@@ -1,5 +1,5 @@
 {
-  "updated_at": "14.08.2026 21:40",
+  "updated_at": "15.08.2026 03:39",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,51 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-08-14",
-      "time": "20:00",
-      "sport": "Tenis",
-      "league": "WTA Cincinnati",
-      "title": "E.Arango - V.Williams",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-08-14",
-      "time": "21:30",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Esenler Erokspor - Sarıyer",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-08-14",
-      "time": "21:45",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 2",
-      "title": "Reims - Dunkerque HB",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-08-14",
-      "time": "21:45",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 2",
-      "title": "St. Etienne - Clermont",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
-    },
-    {
-      "date": "2026-08-14",
-      "time": "22:15",
-      "sport": "Futbol",
-      "league": "Portekiz Liga NOS",
-      "title": "Sporting Lisbon - Guimaraes",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
     {
       "date": "2026-08-15",
       "time": "02:00",
