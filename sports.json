@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.08.2026 09:21",
+  "updated_at": "16.08.2026 15:18",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,6 +44,15 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
+    {
+      "date": "2026-08-16",
+      "time": "18:00",
+      "sport": "Tenis",
+      "league": "WTA Cincinnati",
+      "title": "T.Townsend - E.Rybakina",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
     {
       "date": "2026-08-16",
       "time": "19:00",
@@ -97,6 +106,24 @@
       "title": "Lens - PSG",
       "channel": "beIN SPORTS 3",
       "stream_id": "11"
+    },
+    {
+      "date": "2026-08-17",
+      "time": "02:00",
+      "sport": "Tenis",
+      "league": "WTA Cincinnati",
+      "title": "C.Gauff - L.Samsonova",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-08-17",
+      "time": "03:30",
+      "sport": "Tenis",
+      "league": "WTA Cincinnati",
+      "title": "T.Valentova - E.Svitolina",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
     },
     {
       "date": "2026-08-17",
