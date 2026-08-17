@@ -1,5 +1,5 @@
 {
-  "updated_at": "17.08.2026 03:38",
+  "updated_at": "17.08.2026 09:33",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -46,19 +46,19 @@
   "events": [
     {
       "date": "2026-08-17",
-      "time": "02:00",
+      "time": "18:00",
       "sport": "Tenis",
       "league": "WTA Cincinnati",
-      "title": "C.Gauff - L.Samsonova",
+      "title": "I.Swiatek - M.Sakkari",
       "channel": "beIN SPORTS MAX 1",
       "stream_id": "15"
     },
     {
       "date": "2026-08-17",
-      "time": "03:30",
+      "time": "19:30",
       "sport": "Tenis",
       "league": "WTA Cincinnati",
-      "title": "T.Valentova - E.Svitolina",
+      "title": "M.Frech - E.Rybakina",
       "channel": "beIN SPORTS MAX 1",
       "stream_id": "15"
     },
