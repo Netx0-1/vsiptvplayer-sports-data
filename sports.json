@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.08.2026 21:13",
+  "updated_at": "17.08.2026 03:38",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,42 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-08-16",
-      "time": "21:30",
-      "sport": "Futbol",
-      "league": "Trendyol Süper Lig",
-      "title": "Amedspor - Erzurumspor",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-08-16",
-      "time": "21:30",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Mardin 1969 - Antalyaspor",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-08-16",
-      "time": "21:30",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Muğlaspor - Bandırmaspor",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-08-16",
-      "time": "21:45",
-      "sport": "Futbol",
-      "league": "Fransa Süper Kupasi",
-      "title": "Lens - PSG",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
     {
       "date": "2026-08-17",
       "time": "02:00",
@@ -131,6 +95,15 @@
       "sport": "Futbol",
       "league": "Trendyol Süper Lig",
       "title": "Eyüpspor - Gaziantep FK",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-08-23",
+      "time": "21:30",
+      "sport": "Futbol",
+      "league": "Trendyol Süper Lig",
+      "title": "Göztepe - Gençlerbirliği",
       "channel": "beIN SPORTS 2",
       "stream_id": "95164"
     }
