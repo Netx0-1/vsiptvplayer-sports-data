@@ -1,5 +1,5 @@
 {
-  "updated_at": "17.08.2026 21:22",
+  "updated_at": "18.08.2026 03:38",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,33 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-08-17",
-      "time": "19:30",
-      "sport": "Tenis",
-      "league": "WTA Cincinnati",
-      "title": "M.Frech - E.Rybakina",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-08-17",
-      "time": "21:30",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Batman Petrol - Boluspor",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-08-17",
-      "time": "22:15",
-      "sport": "Futbol",
-      "league": "Portekiz Liga NOS",
-      "title": "Casa Pia - Benfica",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
     {
       "date": "2026-08-22",
       "time": "19:00",
