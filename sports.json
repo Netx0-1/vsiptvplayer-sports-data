@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.08.2026 03:38",
+  "updated_at": "20.08.2026 09:26",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,24 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-08-20",
-      "time": "02:00",
-      "sport": "Tenis",
-      "league": "WTA Cincinnati",
-      "title": "M.Keys - X.Wang",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-08-20",
-      "time": "03:30",
-      "sport": "Tenis",
-      "league": "WTA Cincinnati",
-      "title": "A.Sabalenka - S.Bejlek",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
     {
       "date": "2026-08-22",
       "time": "19:00",
