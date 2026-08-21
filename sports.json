@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.08.2026 09:27",
+  "updated_at": "21.08.2026 15:25",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -45,6 +45,78 @@
   },
   "events": [
     {
+      "date": "2026-08-21",
+      "time": "20:00",
+      "sport": "Tenis",
+      "league": "WTA Cincinnati Çeyrek Final",
+      "title": "S.Bejlek - M.Keys",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-08-21",
+      "time": "21:30",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Karagümrük - Bursaspor",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-08-21",
+      "time": "21:45",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "Marsilya - Strasbourg",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-08-21",
+      "time": "22:00",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Arsenal - Coventry",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
+      "date": "2026-08-22",
+      "time": "14:30",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Hull City - Manchester Utd",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
+      "date": "2026-08-22",
+      "time": "17:00",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Everton - Crystal Palace",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
+      "date": "2026-08-22",
+      "time": "17:00",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Ipswich Town - Sunderland",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-08-22",
+      "time": "17:00",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Nottingham Forest - Leeds United",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
       "date": "2026-08-22",
       "time": "19:00",
       "sport": "Futbol",
@@ -52,6 +124,141 @@
       "title": "Çorum FK - Kasımpaşa",
       "channel": "beIN SPORTS 2",
       "stream_id": "95164"
+    },
+    {
+      "date": "2026-08-22",
+      "time": "19:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Ümraniyespor - Esenler Erokspor",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-08-22",
+      "time": "19:30",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Brentford - Tottenham",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
+      "date": "2026-08-22",
+      "time": "21:30",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Antalyaspor - Pendikspor",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-08-22",
+      "time": "21:30",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Bodrumspor - Muğlaspor",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-08-22",
+      "time": "21:45",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "Nice - Lorient",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-08-22",
+      "time": "21:45",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "Toulouse - Lyon",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
+      "date": "2026-08-22",
+      "time": "21:45",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "Troyes - Paris FC",
+      "channel": "beIN SPORTS 4",
+      "stream_id": "12"
+    },
+    {
+      "date": "2026-08-22",
+      "time": "22:30",
+      "sport": "Futbol",
+      "league": "Portekiz Liga NOS",
+      "title": "Sporting Lisbon - Alverca",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-08-23",
+      "time": "16:00",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "Angers - Lille",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-08-23",
+      "time": "16:00",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Brighton - Aston Villa",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-08-23",
+      "time": "16:00",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Manchester City - Bournemouth",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
+      "date": "2026-08-23",
+      "time": "17:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Bandırmaspor - Keçiörengücü",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-08-23",
+      "time": "18:15",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "Le Havre - Monaco",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-08-23",
+      "time": "18:30",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Newcastle - Liverpool",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
+      "date": "2026-08-23",
+      "time": "19:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Boluspor - Mardin 1969",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
     },
     {
       "date": "2026-08-23",
@@ -70,6 +277,69 @@
       "title": "Göztepe - Gençlerbirliği",
       "channel": "beIN SPORTS 2",
       "stream_id": "95164"
+    },
+    {
+      "date": "2026-08-23",
+      "time": "21:30",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Sarıyer - Batman Petrol",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-08-23",
+      "time": "21:30",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Vanspor - İstanbulspor",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-08-23",
+      "time": "21:45",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "PSG - Rennes",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
+      "date": "2026-08-23",
+      "time": "22:30",
+      "sport": "Futbol",
+      "league": "Portekiz Liga NOS",
+      "title": "Porto - Arouca",
+      "channel": "beIN SPORTS 4",
+      "stream_id": "12"
+    },
+    {
+      "date": "2026-08-24",
+      "time": "21:30",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Sivasspor - Manisa FK",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-08-24",
+      "time": "21:45",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 2",
+      "title": "Reims - Annecy",
+      "channel": "beIN SPORTS 4",
+      "stream_id": "12"
+    },
+    {
+      "date": "2026-08-24",
+      "time": "22:00",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Fulham - Chelsea",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
     }
   ]
 }
