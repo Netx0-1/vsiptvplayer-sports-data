@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.08.2026 21:21",
+  "updated_at": "22.08.2026 03:38",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,42 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-08-21",
-      "time": "20:00",
-      "sport": "Tenis",
-      "league": "WTA Cincinnati Çeyrek Final",
-      "title": "S.Bejlek - M.Keys",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-08-21",
-      "time": "21:30",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Karagümrük - Bursaspor",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-08-21",
-      "time": "21:45",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Marsilya - Strasbourg",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-08-21",
-      "time": "22:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Arsenal - Coventry",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
     {
       "date": "2026-08-22",
       "time": "14:30",
