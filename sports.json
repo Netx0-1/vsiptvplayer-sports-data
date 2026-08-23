@@ -1,5 +1,5 @@
 {
-  "updated_at": "22.08.2026 21:14",
+  "updated_at": "23.08.2026 03:41",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,69 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-08-22",
-      "time": "19:30",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Brentford - Tottenham",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
-      "date": "2026-08-22",
-      "time": "21:30",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Antalyaspor - Pendikspor",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-08-22",
-      "time": "21:30",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Bodrumspor - Muğlaspor",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-08-22",
-      "time": "21:45",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Nice - Lorient",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-08-22",
-      "time": "21:45",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Toulouse - Lyon",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
-      "date": "2026-08-22",
-      "time": "21:45",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Troyes - Paris FC",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
-    },
-    {
-      "date": "2026-08-22",
-      "time": "22:30",
-      "sport": "Futbol",
-      "league": "Portekiz Liga NOS",
-      "title": "Sporting Lisbon - Alverca",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
     {
       "date": "2026-08-23",
       "time": "16:00",
@@ -250,6 +187,15 @@
       "title": "Fulham - Chelsea",
       "channel": "beIN SPORTS 3",
       "stream_id": "11"
+    },
+    {
+      "date": "2026-08-29",
+      "time": "21:30",
+      "sport": "Futbol",
+      "league": "Trendyol Süper Lig",
+      "title": "Gaziantep FK - Ç.Rizespor",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
     }
   ]
 }
