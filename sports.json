@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.08.2026 21:14",
+  "updated_at": "24.08.2026 03:40",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -45,49 +45,13 @@
   },
   "events": [
     {
-      "date": "2026-08-23",
-      "time": "21:30",
-      "sport": "Futbol",
-      "league": "Trendyol Süper Lig",
-      "title": "Göztepe - Gençlerbirliği",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-08-23",
-      "time": "21:30",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Sarıyer - Batman Petrol",
+      "date": "2026-08-24",
+      "time": "02:00",
+      "sport": "Tenis",
+      "league": "WTA Cincinnati Final",
+      "title": "C.Gauff - J.Pegula",
       "channel": "beIN SPORTS MAX 1",
       "stream_id": "15"
-    },
-    {
-      "date": "2026-08-23",
-      "time": "21:30",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Vanspor - İstanbulspor",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-08-23",
-      "time": "21:45",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "PSG - Rennes",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
-      "date": "2026-08-23",
-      "time": "22:30",
-      "sport": "Futbol",
-      "league": "Portekiz Liga NOS",
-      "title": "Porto - Arouca",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
     },
     {
       "date": "2026-08-24",
@@ -122,6 +86,15 @@
       "sport": "Futbol",
       "league": "Trendyol Süper Lig",
       "title": "Gaziantep FK - Ç.Rizespor",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-08-30",
+      "time": "21:30",
+      "sport": "Futbol",
+      "league": "Trendyol Süper Lig",
+      "title": "İstanbul Başakşehir - Kasımpaşa",
       "channel": "beIN SPORTS 2",
       "stream_id": "95164"
     }
