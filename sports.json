@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.08.2026 21:24",
+  "updated_at": "25.08.2026 03:39",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -45,33 +45,6 @@
   },
   "events": [
     {
-      "date": "2026-08-24",
-      "time": "21:30",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Sivasspor - Manisa FK",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-08-24",
-      "time": "21:45",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 2",
-      "title": "Reims - Annecy",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
-    },
-    {
-      "date": "2026-08-24",
-      "time": "22:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Fulham - Chelsea",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
       "date": "2026-08-29",
       "time": "21:30",
       "sport": "Futbol",
@@ -86,6 +59,15 @@
       "sport": "Futbol",
       "league": "Trendyol Süper Lig",
       "title": "İstanbul Başakşehir - Kasımpaşa",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "21:30",
+      "sport": "Futbol",
+      "league": "Trendyol Süper Lig",
+      "title": "Amedspor - Trabzonspor",
       "channel": "beIN SPORTS 2",
       "stream_id": "95164"
     }
