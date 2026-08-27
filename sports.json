@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.08.2026 08:44",
+  "updated_at": "27.08.2026 20:04",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,6 +44,42 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
+    {
+      "date": "2026-08-28",
+      "time": "00:00",
+      "sport": "Tenis",
+      "league": "WTA Monterrey",
+      "title": "A.Parks - A.Li",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-08-28",
+      "time": "01:30",
+      "sport": "Tenis",
+      "league": "WTA Monterrey",
+      "title": "D.Vidmanova - N.Bartunkova",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-08-28",
+      "time": "04:30",
+      "sport": "Tenis",
+      "league": "WTA Monterrey",
+      "title": "C.Tauson - D.Parry",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-08-28",
+      "time": "06:00",
+      "sport": "Tenis",
+      "league": "WTA Monterrey",
+      "title": "Y.Starodubtseva - E.Mertens",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
     {
       "date": "2026-08-29",
       "time": "21:30",
