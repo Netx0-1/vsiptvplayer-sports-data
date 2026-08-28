@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.08.2026 20:04",
+  "updated_at": "28.08.2026 04:53",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -46,24 +46,6 @@
   "events": [
     {
       "date": "2026-08-28",
-      "time": "00:00",
-      "sport": "Tenis",
-      "league": "WTA Monterrey",
-      "title": "A.Parks - A.Li",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-08-28",
-      "time": "01:30",
-      "sport": "Tenis",
-      "league": "WTA Monterrey",
-      "title": "D.Vidmanova - N.Bartunkova",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-08-28",
       "time": "04:30",
       "sport": "Tenis",
       "league": "WTA Monterrey",
@@ -79,6 +61,42 @@
       "title": "Y.Starodubtseva - E.Mertens",
       "channel": "beIN SPORTS MAX 1",
       "stream_id": "15"
+    },
+    {
+      "date": "2026-08-28",
+      "time": "19:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Pendikspor - Bandırmaspor",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-08-28",
+      "time": "21:30",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Antalyaspor - Sarıyer",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-08-28",
+      "time": "21:45",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "Lille - PSG",
+      "channel": "beIN SPORTS 4",
+      "stream_id": "12"
+    },
+    {
+      "date": "2026-08-28",
+      "time": "22:00",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Crystal Palace - Manchester City",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
     },
     {
       "date": "2026-08-29",
