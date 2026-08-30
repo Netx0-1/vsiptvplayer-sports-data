@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.08.2026 13:53",
+  "updated_at": "30.08.2026 18:42",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,42 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-08-30",
-      "time": "16:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Chelsea - Brighton",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
-      "date": "2026-08-30",
-      "time": "16:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Leeds United - Brentford",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-08-30",
-      "time": "16:00",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Paris FC - Nice",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-08-30",
-      "time": "16:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Sunderland - Fulham",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
-    },
     {
       "date": "2026-08-30",
       "time": "18:15",
