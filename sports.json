@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.08.2026 23:16",
+  "updated_at": "31.08.2026 05:18",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,33 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-08-30",
-      "time": "21:30",
-      "sport": "Futbol",
-      "league": "Trendyol Süper Lig",
-      "title": "İstanbul Başakşehir - Kasımpaşa",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-08-30",
-      "time": "21:30",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Manisa FK - Bodrumspor",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-08-30",
-      "time": "21:45",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Monaco - Marsilya",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
-    },
     {
       "date": "2026-08-31",
       "time": "21:30",
