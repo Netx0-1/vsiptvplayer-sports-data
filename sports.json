@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.08.2026 15:08",
+  "updated_at": "01.09.2026 01:10",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -43,33 +43,5 @@
     "BEINSPORTS MAX 1 4K": "339868",
     "BEINSPORTS MAX 2 4K": "339869"
   },
-  "events": [
-    {
-      "date": "2026-08-31",
-      "time": "21:30",
-      "sport": "Futbol",
-      "league": "Trendyol Süper Lig",
-      "title": "Beşiktaş - Çorum FK",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-08-31",
-      "time": "22:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Aston Villa - Arsenal",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
-      "date": "2026-08-31",
-      "time": "22:15",
-      "sport": "Futbol",
-      "league": "Portekiz Liga NOS",
-      "title": "Benfica - Estoril",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
-    }
-  ]
+  "events": []
 }
