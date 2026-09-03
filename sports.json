@@ -1,5 +1,5 @@
 {
-  "updated_at": "03.09.2026 13:22",
+  "updated_at": "03.09.2026 18:27",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,33 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-09-03",
-      "time": "11:30",
-      "sport": "Padel",
-      "league": "Premier Padel",
-      "title": "Ortiz/Segador - Bengoechea/Ulrich",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-09-03",
-      "time": "13:00",
-      "sport": "Padel",
-      "league": "Premier Padel",
-      "title": "Stupaczuk/Sanz - Casas/Arroyo",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-09-03",
-      "time": "14:30",
-      "sport": "Padel",
-      "league": "Premier Padel",
-      "title": "Collombon/Sharifova - Martin/Fernandez",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
     {
       "date": "2026-09-03",
       "time": "17:00",
@@ -127,6 +100,15 @@
     },
     {
       "date": "2026-09-04",
+      "time": "21:00",
+      "sport": "Hentbol",
+      "league": "Fransa Hentbol Ligi",
+      "title": "Chambery Savoie - PSG",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-09-04",
       "time": "22:00",
       "sport": "Futbol",
       "league": "İngiltere Premier Lig",
@@ -174,6 +156,15 @@
       "date": "2026-09-05",
       "time": "17:00",
       "sport": "Futbol",
+      "league": "Trendyol Süper Lig",
+      "title": "Erzurumspor - Konyaspor",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-09-05",
+      "time": "17:00",
+      "sport": "Futbol",
       "league": "İngiltere Premier Lig",
       "title": "Fulham - Crystal Palace",
       "channel": "beIN SPORTS MAX 2",
@@ -210,10 +201,55 @@
       "date": "2026-09-05",
       "time": "20:00",
       "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Keçiörengücü - Sarıyer",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-09-05",
+      "time": "20:00",
+      "sport": "Futbol",
       "league": "Portekiz Liga NOS",
       "title": "Maritimo - Benfica",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
+    },
+    {
+      "date": "2026-09-05",
+      "time": "20:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Pendikspor - Ümraniyespor",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-09-05",
+      "time": "21:00",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 2",
+      "title": "St. Etienne - Montpellier",
+      "channel": "beIN SPORTS 4",
+      "stream_id": "12"
+    },
+    {
+      "date": "2026-09-05",
+      "time": "21:45",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "Le Havre - Brest",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-09-05",
+      "time": "21:45",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "Nice - Le Mans",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
     },
     {
       "date": "2026-09-05",
@@ -235,10 +271,19 @@
     },
     {
       "date": "2026-09-06",
+      "time": "16:00",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "Troyes - Strasbourg",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-09-06",
       "time": "17:00",
       "sport": "Futbol",
       "league": "Trendyol Süper Lig",
-      "title": "Kasımpaşa - Amedspor",
+      "title": "Çorum FK - Eyüpspor",
       "channel": "beIN SPORTS 2",
       "stream_id": "95164"
     },
@@ -255,10 +300,64 @@
       "date": "2026-09-06",
       "time": "20:00",
       "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Antalyaspor - Sivasspor",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-09-06",
+      "time": "20:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Batman Petrol - Karagümrük",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-09-06",
+      "time": "20:00",
+      "sport": "Futbol",
       "league": "Trendyol Süper Lig",
       "title": "Kocaelispor - Samsunspor",
       "channel": "beIN SPORTS 2",
       "stream_id": "95164"
+    },
+    {
+      "date": "2026-09-06",
+      "time": "20:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Muğlaspor - Vanspor",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-09-06",
+      "time": "21:45",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "Marsilya - Paris FC",
+      "channel": "beIN SPORTS 4",
+      "stream_id": "12"
+    },
+    {
+      "date": "2026-09-07",
+      "time": "17:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Esenler Erokspor - Kayserispor",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-09-07",
+      "time": "17:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "İstanbulspor - Iğdırspor",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
     },
     {
       "date": "2026-09-07",
@@ -268,6 +367,33 @@
       "title": "Göztepe - Gaziantep FK",
       "channel": "beIN SPORTS 2",
       "stream_id": "95164"
+    },
+    {
+      "date": "2026-09-07",
+      "time": "20:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Manisa FK - Bursaspor",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-09-07",
+      "time": "20:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Mardin 1969 - Bodrumspor",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-09-07",
+      "time": "21:45",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 2",
+      "title": "Nantes - Nancy",
+      "channel": "beIN SPORTS 4",
+      "stream_id": "12"
     }
   ]
 }
