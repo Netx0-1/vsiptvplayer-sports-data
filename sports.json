@@ -1,5 +1,5 @@
 {
-  "updated_at": "02.09.2026 23:16",
+  "updated_at": "03.09.2026 05:02",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,6 +44,51 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
+    {
+      "date": "2026-09-03",
+      "time": "10:00",
+      "sport": "Padel",
+      "league": "Premier Padel",
+      "title": "Senesi/Pons - Camacho/Pozzo",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-09-03",
+      "time": "11:30",
+      "sport": "Padel",
+      "league": "Premier Padel",
+      "title": "Ortiz/Segador - Bengoechea/Ulrich",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-09-03",
+      "time": "13:00",
+      "sport": "Padel",
+      "league": "Premier Padel",
+      "title": "Stupaczuk/Sanz - Casas/Arroyo",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-09-03",
+      "time": "14:30",
+      "sport": "Padel",
+      "league": "Premier Padel",
+      "title": "Collombon/Sharifova - Martin/Fernandez",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-09-03",
+      "time": "17:00",
+      "sport": "Padel",
+      "league": "Premier Padel",
+      "title": "Esbri/Gutierrez - Chingotto/Galan",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
     {
       "date": "2026-09-03",
       "time": "17:00",
