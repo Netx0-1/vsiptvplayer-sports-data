@@ -1,5 +1,5 @@
 {
-  "updated_at": "04.09.2026 18:25",
+  "updated_at": "04.09.2026 23:01",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,24 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-09-04",
-      "time": "20:00",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Lyon - Auxerre",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-09-04",
-      "time": "21:00",
-      "sport": "Hentbol",
-      "league": "Fransa Hentbol Ligi",
-      "title": "Chambery Savoie - PSG",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
     {
       "date": "2026-09-04",
       "time": "22:00",
