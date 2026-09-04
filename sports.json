@@ -1,5 +1,5 @@
 {
-  "updated_at": "03.09.2026 23:16",
+  "updated_at": "04.09.2026 04:58",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,15 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-09-03",
-      "time": "21:45",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Toulouse - Lille",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
-    },
     {
       "date": "2026-09-04",
       "time": "20:00",
