@@ -1,5 +1,5 @@
 {
-  "updated_at": "04.09.2026 23:01",
+  "updated_at": "05.09.2026 04:58",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,33 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-09-04",
-      "time": "22:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Ipswich Town - Liverpool",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
-      "date": "2026-09-04",
-      "time": "22:05",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "PSG - Monaco",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-09-04",
-      "time": "22:15",
-      "sport": "Futbol",
-      "league": "Portekiz Liga NOS",
-      "title": "Porto - Moreirense",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
-    },
     {
       "date": "2026-09-05",
       "time": "14:30",
