@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.09.2026 22:41",
+  "updated_at": "06.09.2026 04:54",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,42 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-09-05",
-      "time": "21:00",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 2",
-      "title": "St. Etienne - Montpellier",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
-    },
-    {
-      "date": "2026-09-05",
-      "time": "21:45",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Le Havre - Brest",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-09-05",
-      "time": "21:45",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Nice - Le Mans",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
-      "date": "2026-09-05",
-      "time": "22:30",
-      "sport": "Futbol",
-      "league": "Portekiz Liga NOS",
-      "title": "Sporting Lisbon - Nacional",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
     {
       "date": "2026-09-06",
       "time": "16:00",
