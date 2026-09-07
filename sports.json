@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.09.2026 14:01",
+  "updated_at": "07.09.2026 19:50",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -46,24 +46,6 @@
   "events": [
     {
       "date": "2026-09-07",
-      "time": "17:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Esenler Erokspor - Kayserispor",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-09-07",
-      "time": "17:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "İstanbulspor - Iğdırspor",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-09-07",
       "time": "20:00",
       "sport": "Futbol",
       "league": "Trendyol Süper Lig",
@@ -97,6 +79,33 @@
       "title": "Nantes - Nancy",
       "channel": "beIN SPORTS 4",
       "stream_id": "12"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "17:00",
+      "sport": "Futbol",
+      "league": "Trendyol Süper Lig",
+      "title": "Samsunspor - Çorum FK",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "20:00",
+      "sport": "Futbol",
+      "league": "Trendyol Süper Lig",
+      "title": "Alanyaspor - Göztepe",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-09-13",
+      "time": "20:00",
+      "sport": "Futbol",
+      "league": "Trendyol Süper Lig",
+      "title": "Amedspor - İstanbul Başakşehir",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
     }
   ]
 }
