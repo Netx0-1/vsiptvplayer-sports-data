@@ -1,5 +1,5 @@
 {
-  "updated_at": "09.09.2026 23:11",
+  "updated_at": "10.09.2026 05:04",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,6 +44,51 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
+    {
+      "date": "2026-09-10",
+      "time": "13:00",
+      "sport": "Padel",
+      "league": "Premier Padel",
+      "title": "Cabruja/Fuente - Martin/Fernandez",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-09-10",
+      "time": "15:00",
+      "sport": "Padel",
+      "league": "Premier Padel",
+      "title": "Barahona/Blasco - Augsburger/Lebron",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-09-10",
+      "time": "17:00",
+      "sport": "Padel",
+      "league": "Premier Padel",
+      "title": "Coello/Tapia - Garcia/Granados",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-09-10",
+      "time": "19:00",
+      "sport": "Padel",
+      "league": "Premier Padel",
+      "title": "Stupaczuk/Sanz - Moya/Leygue",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-09-10",
+      "time": "21:00",
+      "sport": "Padel",
+      "league": "Premier Padel",
+      "title": "Senesi/Pons - Camacho/Pozzo",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
     {
       "date": "2026-09-10",
       "time": "22:15",
