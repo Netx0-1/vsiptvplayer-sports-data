@@ -1,5 +1,5 @@
 {
-  "updated_at": "10.09.2026 23:12",
+  "updated_at": "11.09.2026 05:02",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -45,13 +45,31 @@
   },
   "events": [
     {
-      "date": "2026-09-10",
-      "time": "22:15",
-      "sport": "Futbol",
-      "league": "Portekiz Liga NOS",
-      "title": "Estrela - Braga",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
+      "date": "2026-09-11",
+      "time": "14:00",
+      "sport": "Padel",
+      "league": "Premier Padel Kadınlar Çeyrek Final",
+      "title": "Gallego/Araujo - Martin/Fernandez",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-09-11",
+      "time": "16:00",
+      "sport": "Padel",
+      "league": "Premier Padel Erkekler Çeyrek Final",
+      "title": "Coello/Tapia - Leal/Guerrero",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-09-11",
+      "time": "19:00",
+      "sport": "Padel",
+      "league": "Premier Padel Kadınlar Çeyrek Final",
+      "title": "Senesi/Pons - Orsi/Zielinski",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
     },
     {
       "date": "2026-09-11",
@@ -61,6 +79,15 @@
       "title": "Sarıyer - Bandırmaspor",
       "channel": "beIN SPORTS 2",
       "stream_id": "95164"
+    },
+    {
+      "date": "2026-09-11",
+      "time": "21:00",
+      "sport": "Padel",
+      "league": "Premier Padel Erkekler Çeyrek Final",
+      "title": "Alonso/Lacabe - Chingotto/Galan",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
     },
     {
       "date": "2026-09-11",
