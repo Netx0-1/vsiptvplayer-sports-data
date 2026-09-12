@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.09.2026 17:37",
+  "updated_at": "12.09.2026 22:51",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,96 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-09-12",
-      "time": "17:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Aston Villa - Nottingham Forest",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-09-12",
-      "time": "17:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Boluspor - Pendikspor",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-09-12",
-      "time": "17:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Chelsea - Hull City",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
-      "date": "2026-09-12",
-      "time": "17:00",
-      "sport": "Futbol",
-      "league": "Trendyol Süper Lig",
-      "title": "Eyüpspor - Ç.Rizespor",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-09-12",
-      "time": "17:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Liverpool - Fulham",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-09-12",
-      "time": "19:30",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Tottenham - Everton",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
-      "date": "2026-09-12",
-      "time": "20:00",
-      "sport": "Futbol",
-      "league": "Trendyol Süper Lig",
-      "title": "Alanyaspor - Göztepe",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-09-12",
-      "time": "20:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Bodrumspor - Batman Petrol",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-09-12",
-      "time": "20:00",
-      "sport": "Futbol",
-      "league": "Portekiz Liga NOS",
-      "title": "Casa Pia - Porto",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-09-12",
-      "time": "20:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Ümraniyespor - Antalyaspor",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
     {
       "date": "2026-09-12",
       "time": "21:45",
@@ -293,6 +203,15 @@
       "sport": "Futbol",
       "league": "Trendyol Süper Lig",
       "title": "Çorum FK - Alanyaspor",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-09-19",
+      "time": "20:00",
+      "sport": "Futbol",
+      "league": "Trendyol Süper Lig",
+      "title": "İstanbul Başakşehir - Gençlerbirliği",
       "channel": "beIN SPORTS 2",
       "stream_id": "95164"
     }
