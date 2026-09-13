@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.09.2026 13:47",
+  "updated_at": "13.09.2026 18:16",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,24 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-09-13",
-      "time": "16:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Coventry - Brighton",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
-      "date": "2026-09-13",
-      "time": "16:00",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Lille - Troyes",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
     {
       "date": "2026-09-13",
       "time": "17:00",
@@ -194,6 +176,15 @@
       "sport": "Futbol",
       "league": "Trendyol Süper Lig",
       "title": "İstanbul Başakşehir - Gençlerbirliği",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-09-20",
+      "time": "17:00",
+      "sport": "Futbol",
+      "league": "Trendyol Süper Lig",
+      "title": "Erzurumspor - Samsunspor",
       "channel": "beIN SPORTS 2",
       "stream_id": "95164"
     }
