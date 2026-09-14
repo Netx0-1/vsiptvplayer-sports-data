@@ -1,5 +1,5 @@
 {
-  "updated_at": "14.09.2026 14:13",
+  "updated_at": "14.09.2026 20:14",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -70,6 +70,15 @@
       "title": "Leeds United - Newcastle",
       "channel": "beIN SPORTS 3",
       "stream_id": "11"
+    },
+    {
+      "date": "2026-09-15",
+      "time": "02:00",
+      "sport": "Tenis",
+      "league": "WTA Guadalajara",
+      "title": "Zeynep Sönmez - I.Shymanovich",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
     },
     {
       "date": "2026-09-19",
