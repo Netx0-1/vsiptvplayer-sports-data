@@ -1,5 +1,5 @@
 {
-  "updated_at": "15.09.2026 00:10",
+  "updated_at": "15.09.2026 05:26",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,15 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-09-15",
-      "time": "02:00",
-      "sport": "Tenis",
-      "league": "WTA Guadalajara",
-      "title": "Zeynep Sönmez - I.Shymanovich",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
     {
       "date": "2026-09-19",
       "time": "17:00",
