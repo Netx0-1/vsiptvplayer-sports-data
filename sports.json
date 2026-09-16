@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.09.2026 05:19",
+  "updated_at": "16.09.2026 13:28",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -45,6 +45,15 @@
   },
   "events": [
     {
+      "date": "2026-09-16",
+      "time": "23:30",
+      "sport": "Tenis",
+      "league": "WTA Guadalajara",
+      "title": "Zeynep Sönmez - I.Jovic",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
       "date": "2026-09-18",
       "time": "16:00",
       "sport": "Futbol",
@@ -64,10 +73,55 @@
     },
     {
       "date": "2026-09-18",
+      "time": "21:00",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 2",
+      "title": "Reims - Montpellier",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-09-18",
+      "time": "21:00",
+      "sport": "Hentbol",
+      "league": "Fransa Hentbol Ligi",
+      "title": "Tremblay - St.Raphael",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-09-18",
+      "time": "21:45",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "Monaco - Lens",
+      "channel": "beIN SPORTS 4",
+      "stream_id": "12"
+    },
+    {
+      "date": "2026-09-18",
       "time": "22:00",
       "sport": "Futbol",
       "league": "İngiltere Premier Lig",
       "title": "Brentford - Chelsea",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
+      "date": "2026-09-19",
+      "time": "14:30",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Tottenham - Aston Villa",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
+      "date": "2026-09-19",
+      "time": "17:00",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Brighton - Arsenal",
       "channel": "beIN SPORTS 3",
       "stream_id": "11"
     },
@@ -84,6 +138,15 @@
       "date": "2026-09-19",
       "time": "17:00",
       "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Everton - Ipswich Town",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-09-19",
+      "time": "17:00",
+      "sport": "Futbol",
       "league": "Trendyol Süper Lig",
       "title": "Kocaelispor - Gaziantep FK",
       "channel": "beIN SPORTS 2",
@@ -93,10 +156,28 @@
       "date": "2026-09-19",
       "time": "17:00",
       "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Newcastle - Hull City",
+      "channel": "beIN SPORTS 4",
+      "stream_id": "12"
+    },
+    {
+      "date": "2026-09-19",
+      "time": "17:00",
+      "sport": "Futbol",
       "league": "Trendyol 1. Lig",
       "title": "Sarıyer - Boluspor",
       "channel": "beIN SPORTS MAX 2",
       "stream_id": "17"
+    },
+    {
+      "date": "2026-09-19",
+      "time": "19:30",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Nottingham Forest - Coventry",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
     },
     {
       "date": "2026-09-19",
@@ -124,6 +205,69 @@
       "title": "İstanbul Başakşehir - Gençlerbirliği",
       "channel": "beIN SPORTS 2",
       "stream_id": "95164"
+    },
+    {
+      "date": "2026-09-19",
+      "time": "21:45",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "Angers - Troyes",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-09-19",
+      "time": "21:45",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "Lyon - Rennes",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
+      "date": "2026-09-19",
+      "time": "21:45",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "Toulouse - Le Havre",
+      "channel": "beIN SPORTS 4",
+      "stream_id": "12"
+    },
+    {
+      "date": "2026-09-19",
+      "time": "22:30",
+      "sport": "Futbol",
+      "league": "Portekiz Liga NOS",
+      "title": "Sporting Lisbon - Arouca",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-09-20",
+      "time": "16:00",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Bournemouth - Liverpool",
+      "channel": "beIN SPORTS 4",
+      "stream_id": "12"
+    },
+    {
+      "date": "2026-09-20",
+      "time": "16:00",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Leeds United - Crystal Palace",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-09-20",
+      "time": "16:00",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Manchester City - Sunderland",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
     },
     {
       "date": "2026-09-20",
@@ -154,6 +298,24 @@
     },
     {
       "date": "2026-09-20",
+      "time": "18:15",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "Nice - Lille",
+      "channel": "beIN SPORTS 4",
+      "stream_id": "12"
+    },
+    {
+      "date": "2026-09-20",
+      "time": "18:30",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Fulham - Manchester Utd",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
+      "date": "2026-09-20",
       "time": "20:00",
       "sport": "Futbol",
       "league": "Trendyol 1. Lig",
@@ -178,6 +340,33 @@
       "title": "Mardin 1969 - Kayserispor",
       "channel": "beIN SPORTS MAX 1",
       "stream_id": "15"
+    },
+    {
+      "date": "2026-09-20",
+      "time": "20:00",
+      "sport": "Futbol",
+      "league": "Portekiz Liga NOS",
+      "title": "Santa Clara - Braga",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-09-20",
+      "time": "21:45",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "Marsilya - PSG",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
+      "date": "2026-09-20",
+      "time": "22:30",
+      "sport": "Futbol",
+      "league": "Portekiz Liga NOS",
+      "title": "Porto - Benfica",
+      "channel": "beIN SPORTS 4",
+      "stream_id": "12"
     }
   ]
 }
