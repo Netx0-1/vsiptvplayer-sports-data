@@ -1,5 +1,5 @@
 {
-  "updated_at": "17.09.2026 13:38",
+  "updated_at": "17.09.2026 18:52",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,6 +44,15 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
+    {
+      "date": "2026-09-17",
+      "time": "19:00",
+      "sport": "Tenis",
+      "league": "WTA Sao Paulo",
+      "title": "E.Silva - K.Quevedo",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
     {
       "date": "2026-09-18",
       "time": "16:00",
