@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.09.2026 18:26",
+  "updated_at": "18.09.2026 23:08",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,33 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-09-18",
-      "time": "20:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Muğlaspor - Iğdırspor",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-09-18",
-      "time": "21:00",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 2",
-      "title": "Reims - Montpellier",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-09-18",
-      "time": "21:00",
-      "sport": "Hentbol",
-      "league": "Fransa Hentbol Ligi",
-      "title": "Tremblay - St.Raphael",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
     {
       "date": "2026-09-18",
       "time": "21:45",
@@ -349,6 +322,15 @@
       "title": "Porto - Benfica",
       "channel": "beIN SPORTS 4",
       "stream_id": "12"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "19:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Tofaş - Bandırma Bordo",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
     }
   ]
 }
