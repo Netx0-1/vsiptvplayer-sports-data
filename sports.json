@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.09.2026 12:56",
+  "updated_at": "19.09.2026 18:01",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,15 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-09-19",
-      "time": "14:30",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Tottenham - Aston Villa",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
     {
       "date": "2026-09-19",
       "time": "17:00",
@@ -311,6 +302,33 @@
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
       "title": "Tofaş - Bandırma Bordo",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "13:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Türk Telekom - Karşıyaka",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "15:30",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Petkimspor - Denizli Basket",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "18:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Galatasaray MCT Technic - Çayırova Bld.",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
     }
