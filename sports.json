@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.09.2026 13:16",
+  "updated_at": "20.09.2026 18:05",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,33 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-09-20",
-      "time": "16:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Bournemouth - Liverpool",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
-    },
-    {
-      "date": "2026-09-20",
-      "time": "16:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Leeds United - Crystal Palace",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-09-20",
-      "time": "16:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Manchester City - Sunderland",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
     {
       "date": "2026-09-20",
       "time": "17:00",
@@ -203,6 +176,24 @@
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
       "title": "Galatasaray MCT Technic - Çayırova Bld.",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-09-27",
+      "time": "15:30",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Trabzonspor - Bursaspor",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-09-27",
+      "time": "18:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Bahçeşehir Klj - Fenerbahçe Tarfin",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
     }
