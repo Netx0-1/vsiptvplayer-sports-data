@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.09.2026 18:05",
+  "updated_at": "20.09.2026 22:57",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,87 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-09-20",
-      "time": "17:00",
-      "sport": "Futbol",
-      "league": "Trendyol Süper Lig",
-      "title": "Erzurumspor - Samsunspor",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-09-20",
-      "time": "17:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Manisa FK - İstanbulspor",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-09-20",
-      "time": "17:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Pendikspor - Bodrumspor",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-09-20",
-      "time": "18:15",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Nice - Lille",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
-    },
-    {
-      "date": "2026-09-20",
-      "time": "18:30",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Fulham - Manchester Utd",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
-      "date": "2026-09-20",
-      "time": "20:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Antalyaspor - Vanspor",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-09-20",
-      "time": "20:00",
-      "sport": "Futbol",
-      "league": "Trendyol Süper Lig",
-      "title": "Göztepe - Ç.Rizespor",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-09-20",
-      "time": "20:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Mardin 1969 - Kayserispor",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-09-20",
-      "time": "20:00",
-      "sport": "Futbol",
-      "league": "Portekiz Liga NOS",
-      "title": "Santa Clara - Braga",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
     {
       "date": "2026-09-20",
       "time": "21:45",
@@ -194,6 +113,15 @@
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
       "title": "Bahçeşehir Klj - Fenerbahçe Tarfin",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-09-27",
+      "time": "20:30",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Anadolu Efes - Beşiktaş",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
     }
