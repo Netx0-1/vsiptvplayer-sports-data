@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.09.2026 14:25",
+  "updated_at": "21.09.2026 20:24",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -104,6 +104,15 @@
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
       "title": "Anadolu Efes - Beşiktaş",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "19:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Körfez Basket - Esenler Erokspor",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
     }
