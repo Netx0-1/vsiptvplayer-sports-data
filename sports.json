@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.09.2026 05:29",
+  "updated_at": "25.09.2026 13:48",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -46,12 +46,48 @@
   "events": [
     {
       "date": "2026-09-25",
+      "time": "15:00",
+      "sport": "Tenis",
+      "league": "Tenis Laver Cup",
+      "title": "C.Ruud - F.Cerundolo",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "16:30",
+      "sport": "Tenis",
+      "league": "Tenis Laver Cup",
+      "title": "J.Mensik - B.Nakashima",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-09-25",
       "time": "19:00",
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
       "title": "Tofaş - Bandırma Bordo",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "21:00",
+      "sport": "Tenis",
+      "league": "Tenis Laver Cup",
+      "title": "R.Jodar - A.Bublik",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "22:30",
+      "sport": "Tenis",
+      "league": "Tenis Laver Cup",
+      "title": "Alcaraz/Mensik - Bublik/Fritz",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
     },
     {
       "date": "2026-09-26",
