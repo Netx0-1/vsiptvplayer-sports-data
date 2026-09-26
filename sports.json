@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.09.2026 18:21",
+  "updated_at": "26.09.2026 23:21",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,24 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-09-26",
-      "time": "18:00",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Galatasaray MCT Technic - Çayırova Bld.",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-09-26",
-      "time": "18:45",
-      "sport": "Futbol",
-      "league": "Game4Hope",
-      "title": "Merseyside XI - Dünya Karması",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
     {
       "date": "2026-09-27",
       "time": "15:30",
