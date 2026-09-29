@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.09.2026 20:15",
+  "updated_at": "30.09.2026 00:38",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,6 +44,15 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
+    {
+      "date": "2026-09-30",
+      "time": "09:00",
+      "sport": "Tenis",
+      "league": "WTA Pekin",
+      "title": "M.Inglis - Zeynep Sönmez",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
     {
       "date": "2026-10-02",
       "time": "19:00",
