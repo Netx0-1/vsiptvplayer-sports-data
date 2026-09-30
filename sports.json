@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.09.2026 05:58",
+  "updated_at": "30.09.2026 14:34",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -45,15 +45,6 @@
   },
   "events": [
     {
-      "date": "2026-09-30",
-      "time": "09:00",
-      "sport": "Tenis",
-      "league": "WTA Pekin",
-      "title": "M.Inglis - Zeynep Sönmez",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
       "date": "2026-10-02",
       "time": "19:00",
       "sport": "Basketbol",
@@ -61,6 +52,15 @@
       "title": "Karşıyaka - Galatasaray MCT Technic",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "21:00",
+      "sport": "Hentbol",
+      "league": "Fransa Hentbol Ligi",
+      "title": "Saran Loiret - PSG",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
     },
     {
       "date": "2026-10-03",
@@ -90,6 +90,15 @@
       "stream_id": "13"
     },
     {
+      "date": "2026-10-03",
+      "time": "20:00",
+      "sport": "Hentbol",
+      "league": "Fransa Hentbol Ligi",
+      "title": "Montpellier - Chambery Savoie",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
       "date": "2026-10-04",
       "time": "13:00",
       "sport": "Basketbol",
@@ -115,6 +124,15 @@
       "title": "Bandırma Bordo - Anadolu Efes",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
+    },
+    {
+      "date": "2026-10-04",
+      "time": "18:00",
+      "sport": "Hentbol",
+      "league": "Fransa Hentbol Ligi",
+      "title": "Nimes - Aix",
+      "channel": "beIN SPORTS 4",
+      "stream_id": "12"
     },
     {
       "date": "2026-10-05",
