@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.10.2026 06:04",
+  "updated_at": "01.10.2026 15:02",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -46,15 +46,6 @@
   "events": [
     {
       "date": "2026-10-01",
-      "time": "13:00",
-      "sport": "Padel",
-      "league": "Premier Padel",
-      "title": "Collombon/Sharifova - Martin/Fernandez",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-10-01",
       "time": "19:30",
       "sport": "Padel",
       "league": "Premier Padel",
@@ -70,15 +61,6 @@
       "title": "Karşıyaka - Galatasaray MCT Technic",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
-    },
-    {
-      "date": "2026-10-02",
-      "time": "21:00",
-      "sport": "Hentbol",
-      "league": "Fransa Hentbol Ligi",
-      "title": "Saran Loiret - PSG",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
     },
     {
       "date": "2026-10-03",
