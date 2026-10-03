@@ -1,5 +1,5 @@
 {
-  "updated_at": "03.10.2026 13:48",
+  "updated_at": "03.10.2026 18:24",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,24 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-10-03",
-      "time": "13:00",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Denizli Basket - Tofaş",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-10-03",
-      "time": "15:30",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Bursaspor - Türk Telekom",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
     {
       "date": "2026-10-03",
       "time": "18:00",
@@ -131,6 +113,33 @@
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
       "title": "Bahçeşehir Klj - Karşıyaka",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-10-10",
+      "time": "15:30",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Petkimspor - Körfez Basket",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-10-10",
+      "time": "16:00",
+      "sport": "Futbol",
+      "league": "Trendyol Süper Lig",
+      "title": "Alanyaspor - Erzurumspor",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-10-10",
+      "time": "18:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Tofaş - Esenler Erokspor",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
     }
