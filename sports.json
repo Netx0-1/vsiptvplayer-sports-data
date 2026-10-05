@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.10.2026 16:00",
+  "updated_at": "06.10.2026 02:28",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,15 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-10-05",
-      "time": "19:00",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Beşiktaş - Trabzonspor",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
     {
       "date": "2026-10-10",
       "time": "13:00",
@@ -122,6 +113,15 @@
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
       "title": "Türk Telekom - Beşiktaş",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-10-12",
+      "time": "19:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Galatasaray MCT Technic - Bursaspor",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
     }
