@@ -1,5 +1,5 @@
 {
-  "updated_at": "09.10.2026 15:16",
+  "updated_at": "10.10.2026 00:59",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,60 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-10-09",
-      "time": "17:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Bodrumspor - Keçiörengücü",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-10-09",
-      "time": "17:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Sivasspor - Pendikspor",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-10-09",
-      "time": "20:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Ümraniyespor - Sarıyer",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-10-09",
-      "time": "20:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Vanspor - Bandırmaspor",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-10-09",
-      "time": "21:45",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Lens - Lyon",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
-    },
-    {
-      "date": "2026-10-09",
-      "time": "22:15",
-      "sport": "Futbol",
-      "league": "Portekiz Liga NOS",
-      "title": "Braga - Sporting Lisbon",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
     {
       "date": "2026-10-10",
       "time": "13:00",
@@ -376,6 +322,15 @@
       "title": "Coventry - Newcastle",
       "channel": "beIN SPORTS 3",
       "stream_id": "11"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Karşıyaka - Çayırova Bld.",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
     }
   ]
 }
