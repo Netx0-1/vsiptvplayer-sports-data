@@ -1,5 +1,5 @@
 {
-  "updated_at": "10.10.2026 06:19",
+  "updated_at": "10.10.2026 14:34",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -142,6 +142,15 @@
       "title": "Tofaş - Esenler Erokspor",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
+    },
+    {
+      "date": "2026-10-10",
+      "time": "19:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "İstanbulspor - Esenler Erokspor",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
     },
     {
       "date": "2026-10-10",
@@ -329,6 +338,15 @@
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
       "title": "Karşıyaka - Çayırova Bld.",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-10-17",
+      "time": "13:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Bandırma Bordo - Türk Telekom",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
     }
