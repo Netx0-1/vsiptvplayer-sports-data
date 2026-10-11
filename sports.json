@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 19:59",
+  "updated_at": "12.10.2026 00:12",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,60 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-10-11",
-      "time": "18:00",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Türk Telekom - Beşiktaş",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-10-11",
-      "time": "18:15",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Rennes - Auxerre",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-10-11",
-      "time": "18:30",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Liverpool - Manchester City",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
-      "date": "2026-10-11",
-      "time": "19:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Bursaspor - Mardin 1969",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-10-11",
-      "time": "20:00",
-      "sport": "Futbol",
-      "league": "Portekiz Liga NOS",
-      "title": "Benfica - Vitoria",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
-    },
-    {
-      "date": "2026-10-11",
-      "time": "21:45",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Troyes - Marsilya",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
     {
       "date": "2026-10-12",
       "time": "19:00",
@@ -176,6 +122,15 @@
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
       "title": "Fenerbahçe Tarfin - Petkimspor",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-10-18",
+      "time": "20:30",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Beşiktaş - Galatasaray MCT Technic",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
     }
