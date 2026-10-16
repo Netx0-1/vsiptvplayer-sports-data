@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.10.2026 18:45",
+  "updated_at": "16.10.2026 23:14",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,24 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-10-16",
-      "time": "19:00",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Karşıyaka - Çayırova Bld.",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-10-16",
-      "time": "21:00",
-      "sport": "Hentbol",
-      "league": "Fransa Hentbol Ligi",
-      "title": "Fenix Toulouse - St.Raphael",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
     {
       "date": "2026-10-16",
       "time": "21:45",
@@ -403,6 +385,24 @@
       "title": "Tottenham - Coventry",
       "channel": "beIN SPORTS 3",
       "stream_id": "11"
+    },
+    {
+      "date": "2026-10-23",
+      "time": "19:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Çayırova Bld. - Bursaspor",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-10-23",
+      "time": "20:00",
+      "sport": "Futbol",
+      "league": "Trendyol Süper Lig",
+      "title": "Alanyaspor - Kocaelispor",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
     }
   ]
 }
