@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.10.2026 23:14",
+  "updated_at": "17.10.2026 05:06",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -45,13 +45,13 @@
   },
   "events": [
     {
-      "date": "2026-10-16",
-      "time": "21:45",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Le Mans - Toulouse",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
+      "date": "2026-10-17",
+      "time": "12:00",
+      "sport": "Tenis",
+      "league": "WTA Wuhan Yarı Final",
+      "title": "Sonay Kartal - J.Ostapenko",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
     },
     {
       "date": "2026-10-17",
