@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.10.2026 18:05",
+  "updated_at": "18.10.2026 22:50",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,51 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-10-18",
-      "time": "18:15",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Lorient - Monaco",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
-    },
-    {
-      "date": "2026-10-18",
-      "time": "18:15",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Paris FC - Rennes",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-10-18",
-      "time": "18:30",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Nottingham Forest - Arsenal",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
-      "date": "2026-10-18",
-      "time": "19:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "İstanbulspor - Antalyaspor",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-10-18",
-      "time": "20:30",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Beşiktaş - Galatasaray MCT Technic",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
     {
       "date": "2026-10-18",
       "time": "21:45",
@@ -230,6 +185,15 @@
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
       "title": "Tofaş - Petkimspor",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-10-25",
+      "time": "20:30",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Galatasaray MCT Technic - Bandırma Bordo",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
     }
