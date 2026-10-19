@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.10.2026 22:50",
+  "updated_at": "19.10.2026 05:22",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,15 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-10-18",
-      "time": "21:45",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Lyon - Nice",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
-    },
     {
       "date": "2026-10-19",
       "time": "17:00",
