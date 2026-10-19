@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 14:32",
+  "updated_at": "19.10.2026 20:56",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,24 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-10-19",
-      "time": "17:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Karagümrük - Keçiörengücü",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-10-19",
-      "time": "17:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Manisa FK - Muğlaspor",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
     {
       "date": "2026-10-19",
       "time": "19:00",
