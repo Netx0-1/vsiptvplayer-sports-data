@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 13:49",
+  "updated_at": "21.10.2026 19:17",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,6 +44,60 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
+    {
+      "date": "2026-10-22",
+      "time": "05:30",
+      "sport": "Tenis",
+      "league": "WTA Osaka",
+      "title": "A.Li - Zeynep Sönmez",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-10-22",
+      "time": "07:30",
+      "sport": "Tenis",
+      "league": "WTA Osaka",
+      "title": "M.Stoiana - M.Uchijima",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-10-22",
+      "time": "08:00",
+      "sport": "Tenis",
+      "league": "WTA Ningbo",
+      "title": "I.Jovic - J.Paolini",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-10-22",
+      "time": "09:30",
+      "sport": "Tenis",
+      "league": "WTA Osaka",
+      "title": "M.Linette - K.Siniakova",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-10-22",
+      "time": "10:00",
+      "sport": "Tenis",
+      "league": "WTA Ningbo",
+      "title": "K.Kawa - B.Bencic",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-10-22",
+      "time": "12:00",
+      "sport": "Tenis",
+      "league": "WTA Ningbo",
+      "title": "A.Eala - D.Shnaider",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
     {
       "date": "2026-10-23",
       "time": "19:00",
