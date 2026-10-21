@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 05:30",
+  "updated_at": "21.10.2026 13:49",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -63,6 +63,15 @@
       "stream_id": "95164"
     },
     {
+      "date": "2026-10-23",
+      "time": "22:00",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Ipswich Town - Nottingham Forest",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
       "date": "2026-10-24",
       "time": "13:00",
       "sport": "Basketbol",
@@ -70,6 +79,15 @@
       "title": "Trabzonspor - Esenler Erokspor",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
+    },
+    {
+      "date": "2026-10-24",
+      "time": "14:30",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Aston Villa - Manchester City",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
     },
     {
       "date": "2026-10-24",
@@ -82,12 +100,48 @@
     },
     {
       "date": "2026-10-24",
+      "time": "17:00",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Arsenal - Everton",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
+      "date": "2026-10-24",
+      "time": "17:00",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Coventry - Fulham",
+      "channel": "beIN SPORTS 4",
+      "stream_id": "12"
+    },
+    {
+      "date": "2026-10-24",
+      "time": "19:30",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Chelsea - Tottenham",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
+      "date": "2026-10-24",
       "time": "20:30",
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
       "title": "Bahçeşehir Klj - Beşiktaş",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
+    },
+    {
+      "date": "2026-10-24",
+      "time": "22:30",
+      "sport": "Futbol",
+      "league": "Portekiz Liga NOS",
+      "title": "Gil Vicente - Porto",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
     },
     {
       "date": "2026-10-25",
@@ -109,6 +163,33 @@
     },
     {
       "date": "2026-10-25",
+      "time": "17:00",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Hull City - Brentford",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-10-25",
+      "time": "17:00",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Liverpool - Brighton",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
+      "date": "2026-10-25",
+      "time": "17:00",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Manchester Utd - Bournemouth",
+      "channel": "beIN SPORTS 4",
+      "stream_id": "12"
+    },
+    {
+      "date": "2026-10-25",
       "time": "18:00",
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
@@ -118,12 +199,39 @@
     },
     {
       "date": "2026-10-25",
+      "time": "19:30",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Sunderland - Leeds United",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
+      "date": "2026-10-25",
       "time": "20:30",
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
       "title": "Galatasaray MCT Technic - Bandırma Bordo",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
+    },
+    {
+      "date": "2026-10-25",
+      "time": "23:30",
+      "sport": "Futbol",
+      "league": "Portekiz Liga NOS",
+      "title": "Sporting Lisbon - Academico Viseu",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-10-26",
+      "time": "21:45",
+      "sport": "Futbol",
+      "league": "Portekiz Liga NOS",
+      "title": "Santa Clara - Benfica",
+      "channel": "beIN SPORTS 4",
+      "stream_id": "12"
     }
   ]
 }
