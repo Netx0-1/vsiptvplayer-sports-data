@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 05:29",
+  "updated_at": "24.10.2026 12:58",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,15 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-10-24",
-      "time": "10:00",
-      "sport": "Tenis",
-      "league": "WTA Ningbo Yarı Final",
-      "title": "L.Fernandez - M.Bouzkova",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
     {
       "date": "2026-10-24",
       "time": "12:30",
