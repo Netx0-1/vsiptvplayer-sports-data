@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 20:53",
+  "updated_at": "27.10.2026 01:04",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,51 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-10-26",
-      "time": "19:00",
-      "sport": "Futbol",
-      "league": "Trendyol Süper Lig",
-      "title": "Beşiktaş - İstanbul Başakşehir",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-10-26",
-      "time": "20:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Mardin 1969 - Manisa FK",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-10-26",
-      "time": "21:45",
-      "sport": "Futbol",
-      "league": "Portekiz Liga NOS",
-      "title": "Santa Clara - Benfica",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
-      "date": "2026-10-26",
-      "time": "22:30",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "PSG - Lyon",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
-    },
-    {
-      "date": "2026-10-26",
-      "time": "22:45",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 2",
-      "title": "Montpellier - Red Star",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
     {
       "date": "2026-10-27",
       "time": "04:00",
