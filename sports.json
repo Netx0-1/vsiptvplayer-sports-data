@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 05:17",
+  "updated_at": "26.10.2026 14:51",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -73,10 +73,10 @@
     },
     {
       "date": "2026-10-26",
-      "time": "22:45",
+      "time": "22:30",
       "sport": "Futbol",
-      "league": "Fransa Ligue 2",
-      "title": "Montpellier - Red Star",
+      "league": "Fransa Ligue 1",
+      "title": "PSG - Lyon",
       "channel": "beIN SPORTS 4",
       "stream_id": "12"
     },
