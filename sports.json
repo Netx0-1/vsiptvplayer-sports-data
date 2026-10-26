@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 14:51",
+  "updated_at": "26.10.2026 20:53",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -81,6 +81,33 @@
       "stream_id": "12"
     },
     {
+      "date": "2026-10-26",
+      "time": "22:45",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 2",
+      "title": "Montpellier - Red Star",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-10-27",
+      "time": "04:00",
+      "sport": "Tenis",
+      "league": "WTA Guangzhou",
+      "title": "S.Tormo - Zeynep Sönmez",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-10-27",
+      "time": "07:00",
+      "sport": "Tenis",
+      "league": "WTA Tokyo",
+      "title": "Bondar/Sönmez - Cho/Cho",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
       "date": "2026-10-31",
       "time": "15:30",
       "sport": "Basketbol",
@@ -140,6 +167,24 @@
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
       "title": "Bursaspor - Karşıyaka",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "18:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Petkimspor - Anadolu Efes",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "20:30",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Beşiktaş - Çayırova Bld.",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
     }
