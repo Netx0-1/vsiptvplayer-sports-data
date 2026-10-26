@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.10.2026 23:08",
+  "updated_at": "26.10.2026 05:17",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,15 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-10-25",
-      "time": "23:30",
-      "sport": "Futbol",
-      "league": "Portekiz Liga NOS",
-      "title": "Sporting Lisbon - Academico Viseu",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
     {
       "date": "2026-10-26",
       "time": "19:00",
