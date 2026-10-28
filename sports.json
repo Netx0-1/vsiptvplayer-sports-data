@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.10.2026 20:37",
+  "updated_at": "29.10.2026 00:59",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -45,6 +45,105 @@
   },
   "events": [
     {
+      "date": "2026-10-29",
+      "time": "04:30",
+      "sport": "Tenis",
+      "league": "WTA Tokyo",
+      "title": "A.Parks - K.Birrell",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "06:00",
+      "sport": "Tenis",
+      "league": "WTA Tokyo",
+      "title": "L.Fernandez - E.Mertens",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "08:00",
+      "sport": "Tenis",
+      "league": "WTA Guangzhou",
+      "title": "C.Liu - K.Siniakova",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "08:30",
+      "sport": "Tenis",
+      "league": "WTA Tokyo",
+      "title": "N.Osaka - M.Pohankova",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "09:15",
+      "sport": "Tenis",
+      "league": "WTA Guangzhou",
+      "title": "M.Timofeeva - X.Sun",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "11:00",
+      "sport": "Tenis",
+      "league": "WTA Tokyo",
+      "title": "E.Rybakina - Y.Putintseva",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "20:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Esenler Erokspor - Keçiörengücü",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "21:00",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "Le Havre - PSG",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "21:00",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "Nice - Rennes",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "22:00",
+      "sport": "Hentbol",
+      "league": "Fransa Hentbol Ligi",
+      "title": "Fenix Toulouse - Limoges",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "23:05",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "Lille - Lens",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
       "date": "2026-10-30",
       "time": "23:15",
       "sport": "Futbol",
@@ -52,6 +151,15 @@
       "title": "Casa Pia - Sporting Lisbon",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "13:30",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Vanspor - Sarıyer",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
     },
     {
       "date": "2026-10-31",
@@ -70,6 +178,15 @@
       "title": "Körfez Basket - Trabzonspor",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "16:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Karagümrük - Pendikspor",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
     },
     {
       "date": "2026-10-31",
@@ -118,12 +235,39 @@
     },
     {
       "date": "2026-10-31",
+      "time": "19:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Manisa FK - Batman Petrol",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-10-31",
       "time": "20:30",
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
       "title": "Denizli Basket - Galatasaray MCT Technic",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "20:30",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Tottenham - Crystal Palace",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "22:45",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "Troyes - Le Mans",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
     },
     {
       "date": "2026-10-31",
@@ -154,12 +298,39 @@
     },
     {
       "date": "2026-11-01",
+      "time": "13:30",
+      "sport": "Futbol",
+      "league": "Trendyol Süper Lig",
+      "title": "Amedspor - Eyüpspor",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-11-01",
+      "time": "13:30",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Sivasspor - Boluspor",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-11-01",
       "time": "15:30",
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
       "title": "Fenerbahçe Tarfin - Tofaş",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
+    },
+    {
+      "date": "2026-11-01",
+      "time": "16:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Iğdırspor - Antalyaspor",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
     },
     {
       "date": "2026-11-01",
@@ -172,6 +343,24 @@
     },
     {
       "date": "2026-11-01",
+      "time": "16:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "İstanbulspor - Mardin 1969",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-11-01",
+      "time": "17:00",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "Strasbourg - Auxerre",
+      "channel": "beIN SPORTS 4",
+      "stream_id": "12"
+    },
+    {
+      "date": "2026-11-01",
       "time": "18:00",
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
@@ -181,46 +370,37 @@
     },
     {
       "date": "2026-11-01",
-      "time": "19:30",
+      "time": "19:00",
       "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Liverpool - Arsenal",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
+      "league": "Trendyol 1. Lig",
+      "title": "Bodrumspor - Ümraniyespor",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
     },
     {
-      "date": "2026-11-02",
-      "time": "18:00",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Petkimspor - Anadolu Efes",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
+      "date": "2026-11-01",
+      "time": "19:00",
+      "sport": "Hentbol",
+      "league": "Fransa Hentbol Ligi",
+      "title": "PSG - Montpellier",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
     },
     {
-      "date": "2026-11-02",
-      "time": "20:30",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Beşiktaş - Çayırova Bld.",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-11-02",
-      "time": "23:00",
+      "date": "2026-11-01",
+      "time": "19:15",
       "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Newcastle - Everton",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
+      "league": "Fransa Ligue 1",
+      "title": "Lyon - Angers",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
     },
     {
-      "date": "2026-11-02",
-      "time": "23:15",
+      "date": "2026-11-01",
+      "time": "19:15",
       "sport": "Futbol",
-      "league": "Portekiz Liga NOS",
-      "title": "Benfica - Alverca",
+      "league": "Fransa Ligue 1",
+      "title": "Paris FC - Monaco",
       "channel": "beIN SPORTS 4",
       "stream_id": "12"
     }
