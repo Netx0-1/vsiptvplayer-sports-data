@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 06:27",
+  "updated_at": "29.10.2026 14:57",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,60 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-10-29",
-      "time": "04:30",
-      "sport": "Tenis",
-      "league": "WTA Tokyo",
-      "title": "A.Parks - K.Birrell",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "06:00",
-      "sport": "Tenis",
-      "league": "WTA Tokyo",
-      "title": "L.Fernandez - E.Mertens",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "08:00",
-      "sport": "Tenis",
-      "league": "WTA Guangzhou",
-      "title": "C.Liu - K.Siniakova",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "08:30",
-      "sport": "Tenis",
-      "league": "WTA Tokyo",
-      "title": "N.Osaka - M.Pohankova",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "09:15",
-      "sport": "Tenis",
-      "league": "WTA Guangzhou",
-      "title": "M.Timofeeva - X.Sun",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "11:00",
-      "sport": "Tenis",
-      "league": "WTA Tokyo",
-      "title": "E.Rybakina - Y.Putintseva",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
     {
       "date": "2026-10-30",
       "time": "20:00",
@@ -403,6 +349,60 @@
       "title": "Paris FC - Monaco",
       "channel": "beIN SPORTS 4",
       "stream_id": "12"
+    },
+    {
+      "date": "2026-11-01",
+      "time": "19:30",
+      "sport": "Futbol",
+      "league": "İngiltere Premier Lig",
+      "title": "Liverpool - Arsenal",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
+      "date": "2026-11-01",
+      "time": "22:45",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "Marsilya - Toulouse",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "18:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Petkimspor - Anadolu Efes",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "20:00",
+      "sport": "Futbol",
+      "league": "Trendyol 1. Lig",
+      "title": "Kayserispor - Muğlaspor",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "20:30",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Beşiktaş - Çayırova Bld.",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "22:45",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "Lorient - Brest",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
     }
   ]
 }
