@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 19:30",
+  "updated_at": "31.10.2026 23:47",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,78 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-10-31",
-      "time": "18:00",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Bandırma Bordo - Bahçeşehir Klj",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "18:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Bournemouth - Leeds United",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "18:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Brentford - Nottingham Forest",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "18:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Hull City - Ipswich Town",
-      "channel": "beIN SPORTS 4",
-      "stream_id": "12"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "18:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Manchester City - Brighton",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "19:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Manisa FK - Batman Petrol",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "20:30",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Denizli Basket - Galatasaray MCT Technic",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "20:30",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Tottenham - Crystal Palace",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
     {
       "date": "2026-10-31",
       "time": "22:45",
@@ -376,6 +304,15 @@
       "title": "Göztepe - İstanbul Başakşehir",
       "channel": "beIN SPORTS 2",
       "stream_id": "95164"
+    },
+    {
+      "date": "2026-11-07",
+      "time": "20:30",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Bursaspor - Fenerbahçe Tarfin",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
     }
   ]
 }
