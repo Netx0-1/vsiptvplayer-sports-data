@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 06:12",
+  "updated_at": "01.11.2026 15:17",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,15 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-11-01",
-      "time": "13:00",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Esenler Erokspor - Türk Telekom",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
     {
       "date": "2026-11-01",
       "time": "13:30",
@@ -284,6 +275,15 @@
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
       "title": "Bursaspor - Fenerbahçe Tarfin",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-11-08",
+      "time": "13:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Bahçeşehir Klj - Denizli Basket",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
     }
