@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 23:47",
+  "updated_at": "01.11.2026 06:12",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,33 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-10-31",
-      "time": "22:45",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Troyes - Le Mans",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "23:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Aston Villa - Fulham",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "23:30",
-      "sport": "Futbol",
-      "league": "Portekiz Liga NOS",
-      "title": "Porto - Estoril",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
     {
       "date": "2026-11-01",
       "time": "13:00",
