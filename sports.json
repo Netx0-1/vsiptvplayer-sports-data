@@ -1,5 +1,5 @@
 {
-  "updated_at": "02.11.2026 06:22",
+  "updated_at": "02.11.2026 17:11",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -106,6 +106,15 @@
       "title": "Benfica - Alverca",
       "channel": "beIN SPORTS 4",
       "stream_id": "12"
+    },
+    {
+      "date": "2026-11-03",
+      "time": "09:00",
+      "sport": "Tenis",
+      "league": "WTA Hong Kong",
+      "title": "D.Yastremska - Zeynep Sönmez",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
     },
     {
       "date": "2026-11-07",
