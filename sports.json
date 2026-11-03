@@ -1,5 +1,5 @@
 {
-  "updated_at": "03.11.2026 03:11",
+  "updated_at": "03.11.2026 16:14",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,15 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-11-03",
-      "time": "09:00",
-      "sport": "Tenis",
-      "league": "WTA Hong Kong",
-      "title": "D.Yastremska - Zeynep Sönmez",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
     {
       "date": "2026-11-07",
       "time": "13:00",
