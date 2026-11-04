@@ -1,5 +1,5 @@
 {
-  "updated_at": "04.11.2026 16:28",
+  "updated_at": "05.11.2026 01:59",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,6 +44,15 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
+    {
+      "date": "2026-11-05",
+      "time": "10:00",
+      "sport": "Tenis",
+      "league": "WTA Hong Kong",
+      "title": "M.Stojsavljevic - Zeynep Sönmez",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
     {
       "date": "2026-11-06",
       "time": "20:00",
@@ -181,6 +190,15 @@
     },
     {
       "date": "2026-11-07",
+      "time": "20:00",
+      "sport": "Futbol",
+      "league": "Fransa Ligue 1",
+      "title": "Auxerre - Paris FC",
+      "channel": "beIN SPORTS MAX 2",
+      "stream_id": "17"
+    },
+    {
+      "date": "2026-11-07",
       "time": "20:30",
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
@@ -199,7 +217,7 @@
     },
     {
       "date": "2026-11-07",
-      "time": "22:45",
+      "time": "23:05",
       "sport": "Futbol",
       "league": "Fransa Ligue 1",
       "title": "PSG - Troyes",
@@ -352,6 +370,15 @@
     },
     {
       "date": "2026-11-08",
+      "time": "23:00",
+      "sport": "Tenis",
+      "league": "WTA Indian Wells",
+      "title": "E.Rybakina - L.Noskova",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-11-08",
       "time": "23:30",
       "sport": "Futbol",
       "league": "Portekiz Liga NOS",
@@ -367,6 +394,15 @@
       "title": "Karşıyaka - Beşiktaş",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
+    },
+    {
+      "date": "2026-11-09",
+      "time": "23:00",
+      "sport": "Tenis",
+      "league": "WTA Indian Wells",
+      "title": "A.Sabalenka - K.Muchova",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
     }
   ]
 }
