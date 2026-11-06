@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 07:10",
+  "updated_at": "06.11.2026 16:26",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,33 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-11-06",
-      "time": "09:00",
-      "sport": "Tenis",
-      "league": "WTA Hong Kong",
-      "title": "Zeynep Sönmez - C.Liu",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-11-06",
-      "time": "11:30",
-      "sport": "Tenis",
-      "league": "WTA Hong Kong",
-      "title": "S.Cirstea - A.Shubladze",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-11-06",
-      "time": "13:30",
-      "sport": "Tenis",
-      "league": "WTA Hong Kong",
-      "title": "A.Sasnovich - M.Sakkari",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
     {
       "date": "2026-11-06",
       "time": "15:00",
@@ -401,6 +374,33 @@
       "sport": "Tenis",
       "league": "WTA Indian Wells",
       "title": "E.Rybakina - L.Noskova",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-11-08",
+      "time": "23:30",
+      "sport": "Futbol",
+      "league": "Portekiz Liga NOS",
+      "title": "Estrela - Benfica",
+      "channel": "beIN SPORTS 3",
+      "stream_id": "11"
+    },
+    {
+      "date": "2026-11-09",
+      "time": "19:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Karşıyaka - Beşiktaş",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-11-09",
+      "time": "23:00",
+      "sport": "Tenis",
+      "league": "WTA Indian Wells",
+      "title": "A.Sabalenka - K.Muchova",
       "channel": "beIN SPORTS MAX 1",
       "stream_id": "15"
     }
