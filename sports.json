@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 16:26",
+  "updated_at": "07.11.2026 01:30",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -45,60 +45,6 @@
   },
   "events": [
     {
-      "date": "2026-11-06",
-      "time": "15:00",
-      "sport": "Tenis",
-      "league": "WTA Hong Kong",
-      "title": "A.Ruzic - A.Eala",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-11-06",
-      "time": "20:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Antalyaspor - Bursaspor",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-11-06",
-      "time": "20:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Sarıyer - Iğdırspor",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-11-06",
-      "time": "22:00",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 2",
-      "title": "Montpellier - Metz",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-11-06",
-      "time": "22:45",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Toulouse - Strasbourg",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-11-06",
-      "time": "23:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Everton - Coventry",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
       "date": "2026-11-07",
       "time": "13:00",
       "sport": "Basketbol",
@@ -122,6 +68,15 @@
       "sport": "Futbol",
       "league": "Trendyol 1. Lig",
       "title": "Vanspor - Sivasspor",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-11-07",
+      "time": "15:30",
+      "sport": "Tenis",
+      "league": "WTA Chennai",
+      "title": "J.Tien - R.Montgomery",
       "channel": "beIN SPORTS MAX 1",
       "stream_id": "15"
     },
