@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.11.2026 15:05",
+  "updated_at": "08.11.2026 00:13",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,141 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-11-07",
-      "time": "13:30",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Keçiörengücü - Manisa FK",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-11-07",
-      "time": "13:30",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Vanspor - Sivasspor",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-11-07",
-      "time": "15:30",
-      "sport": "Tenis",
-      "league": "WTA Chennai",
-      "title": "J.Tien - R.Montgomery",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-11-07",
-      "time": "15:30",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Leeds United - Tottenham",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
-      "date": "2026-11-07",
-      "time": "15:30",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Türk Telekom - Körfez Basket",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-11-07",
-      "time": "18:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Arsenal - Hull City",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
-      "date": "2026-11-07",
-      "time": "18:00",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Fulham - Newcastle",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-11-07",
-      "time": "18:00",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Trabzonspor - Petkimspor",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-11-07",
-      "time": "19:00",
-      "sport": "Futbol",
-      "league": "Trendyol Süper Lig",
-      "title": "Göztepe - İstanbul Başakşehir",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-11-07",
-      "time": "19:00",
-      "sport": "Futbol",
-      "league": "Trendyol 1. Lig",
-      "title": "Pendikspor - İstanbulspor",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-11-07",
-      "time": "20:00",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "Auxerre - Paris FC",
-      "channel": "beIN SPORTS MAX 2",
-      "stream_id": "17"
-    },
-    {
-      "date": "2026-11-07",
-      "time": "20:30",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Bursaspor - Fenerbahçe Tarfin",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-11-07",
-      "time": "20:30",
-      "sport": "Futbol",
-      "league": "İngiltere Premier Lig",
-      "title": "Nottingham Forest - Manchester City",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
-    {
-      "date": "2026-11-07",
-      "time": "23:05",
-      "sport": "Futbol",
-      "league": "Fransa Ligue 1",
-      "title": "PSG - Troyes",
-      "channel": "beIN SPORTS 2",
-      "stream_id": "95164"
-    },
-    {
-      "date": "2026-11-07",
-      "time": "23:30",
-      "sport": "Futbol",
-      "league": "Portekiz Liga NOS",
-      "title": "Sporting Lisbon - Moreirense",
-      "channel": "beIN SPORTS 3",
-      "stream_id": "11"
-    },
     {
       "date": "2026-11-08",
       "time": "13:00",
@@ -356,6 +221,33 @@
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
       "title": "Petkimspor - Türk Telekom",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-11-14",
+      "time": "15:30",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Tofaş - Trabzonspor",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-11-14",
+      "time": "18:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Körfez Basket - Galatasaray MCT Technic",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-11-14",
+      "time": "20:30",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Bandırma Bordo - Karşıyaka",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
     }
