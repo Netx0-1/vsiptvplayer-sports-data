@@ -1,5 +1,5 @@
 {
-  "updated_at": "09.11.2026 17:40",
+  "updated_at": "10.11.2026 03:58",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,24 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-11-09",
-      "time": "19:00",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Karşıyaka - Beşiktaş",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-11-09",
-      "time": "23:00",
-      "sport": "Tenis",
-      "league": "WTA Indian Wells",
-      "title": "A.Sabalenka - K.Muchova",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
     {
       "date": "2026-11-14",
       "time": "13:00",
