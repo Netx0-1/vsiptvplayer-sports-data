@@ -1,5 +1,5 @@
 {
-  "updated_at": "10.11.2026 03:58",
+  "updated_at": "10.11.2026 16:56",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,6 +44,42 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
+    {
+      "date": "2026-11-10",
+      "time": "23:00",
+      "sport": "Tenis",
+      "league": "WTA Indian Wells",
+      "title": "M.Kostyuk - J.Pegula",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "00:30",
+      "sport": "Tenis",
+      "league": "WTA Indian Wells",
+      "title": "C.Gauff - L.Noskova",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "23:00",
+      "sport": "Tenis",
+      "league": "WTA Indian Wells",
+      "title": "E.Svitolina - K.Muchova",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "00:30",
+      "sport": "Tenis",
+      "league": "WTA Indian Wells",
+      "title": "A.Sabalenka - M.Andreeva",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
     {
       "date": "2026-11-14",
       "time": "13:00",
