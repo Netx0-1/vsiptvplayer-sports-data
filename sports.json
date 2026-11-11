@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.11.2026 06:44",
+  "updated_at": "11.11.2026 16:11",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -63,6 +63,33 @@
       "stream_id": "15"
     },
     {
+      "date": "2026-11-12",
+      "time": "02:00",
+      "sport": "Tenis",
+      "league": "WTA Indian Wells",
+      "title": "Dabrowski/Stefani - Guo/Mladenovic",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "03:30",
+      "sport": "Tenis",
+      "league": "WTA Indian Wells",
+      "title": "Hsieh/Ostapenko - Mertens/Zhang",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-11-13",
+      "time": "22:00",
+      "sport": "Hentbol",
+      "league": "Fransa Hentbol Ligi",
+      "title": "Chambery Savoie - Nimes",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
       "date": "2026-11-14",
       "time": "13:00",
       "sport": "Basketbol",
@@ -124,6 +151,15 @@
       "title": "Beşiktaş - Bursaspor",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
+    },
+    {
+      "date": "2026-11-15",
+      "time": "19:00",
+      "sport": "Hentbol",
+      "league": "Fransa Hentbol Ligi",
+      "title": "Aix - PSG",
+      "channel": "beIN SPORTS 4",
+      "stream_id": "12"
     },
     {
       "date": "2026-11-15",
