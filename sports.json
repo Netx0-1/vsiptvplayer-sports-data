@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.11.2026 02:50",
+  "updated_at": "12.11.2026 07:52",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,24 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-11-12",
-      "time": "02:00",
-      "sport": "Tenis",
-      "league": "WTA Indian Wells",
-      "title": "Dabrowski/Stefani - Guo/Mladenovic",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
-    {
-      "date": "2026-11-12",
-      "time": "03:30",
-      "sport": "Tenis",
-      "league": "WTA Indian Wells",
-      "title": "Hsieh/Ostapenko - Mertens/Zhang",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
     {
       "date": "2026-11-12",
       "time": "23:00",
