@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.11.2026 16:37",
+  "updated_at": "14.11.2026 02:00",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,24 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-11-13",
-      "time": "22:00",
-      "sport": "Hentbol",
-      "league": "Fransa Hentbol Ligi",
-      "title": "Chambery Savoie - Nimes",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-11-13",
-      "time": "23:00",
-      "sport": "Tenis",
-      "league": "WTA Indian Wells",
-      "title": "M.Andreeva - K.Muchova",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
     {
       "date": "2026-11-14",
       "time": "00:30",
