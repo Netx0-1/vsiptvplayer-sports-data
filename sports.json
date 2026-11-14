@@ -1,5 +1,5 @@
 {
-  "updated_at": "14.11.2026 07:01",
+  "updated_at": "14.11.2026 15:42",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -46,15 +46,6 @@
   "events": [
     {
       "date": "2026-11-14",
-      "time": "13:00",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Petkimspor - Türk Telekom",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-11-14",
       "time": "15:30",
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
@@ -79,6 +70,24 @@
       "title": "Bandırma Bordo - Karşıyaka",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
+    },
+    {
+      "date": "2026-11-14",
+      "time": "23:00",
+      "sport": "Tenis",
+      "league": "WTA Indian Wells Yarı Final",
+      "title": "J.Pegula - M.Andreeva",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
+    },
+    {
+      "date": "2026-11-15",
+      "time": "00:30",
+      "sport": "Tenis",
+      "league": "WTA Indian Wells Yarı Final",
+      "title": "L.Noskova - E.Svitolina",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
     },
     {
       "date": "2026-11-15",
@@ -122,6 +131,24 @@
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
       "title": "Fenerbahçe Tarfin - Anadolu Efes",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-11-21",
+      "time": "13:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Karşıyaka - Denizli Basket",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-11-21",
+      "time": "15:30",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Türk Telekom - Tofaş",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
     }
