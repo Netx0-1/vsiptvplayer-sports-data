@@ -1,5 +1,5 @@
 {
-  "updated_at": "14.11.2026 15:42",
+  "updated_at": "15.11.2026 00:48",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -44,42 +44,6 @@
     "BEINSPORTS MAX 2 4K": "339869"
   },
   "events": [
-    {
-      "date": "2026-11-14",
-      "time": "15:30",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Tofaş - Trabzonspor",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-11-14",
-      "time": "18:00",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Körfez Basket - Galatasaray MCT Technic",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-11-14",
-      "time": "20:30",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Bandırma Bordo - Karşıyaka",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-11-14",
-      "time": "23:00",
-      "sport": "Tenis",
-      "league": "WTA Indian Wells Yarı Final",
-      "title": "J.Pegula - M.Andreeva",
-      "channel": "beIN SPORTS MAX 1",
-      "stream_id": "15"
-    },
     {
       "date": "2026-11-15",
       "time": "00:30",
@@ -149,6 +113,33 @@
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
       "title": "Türk Telekom - Tofaş",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-11-21",
+      "time": "16:00",
+      "sport": "Futbol",
+      "league": "Trendyol Süper Lig",
+      "title": "Amedspor - Ç.Rizespor",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
+    },
+    {
+      "date": "2026-11-21",
+      "time": "18:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Bahçeşehir Klj - Körfez Basket",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-11-21",
+      "time": "20:30",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Bursaspor - Bandırma Bordo",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
     }
