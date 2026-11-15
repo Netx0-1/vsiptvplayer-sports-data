@@ -1,5 +1,5 @@
 {
-  "updated_at": "15.11.2026 06:47",
+  "updated_at": "15.11.2026 16:08",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -46,15 +46,6 @@
   "events": [
     {
       "date": "2026-11-15",
-      "time": "13:00",
-      "sport": "Basketbol",
-      "league": "Basketbol Süper Ligi",
-      "title": "Esenler Erokspor - Bahçeşehir Klj",
-      "channel": "beIN SPORTS 5",
-      "stream_id": "13"
-    },
-    {
-      "date": "2026-11-15",
       "time": "15:30",
       "sport": "Basketbol",
       "league": "Basketbol Süper Ligi",
@@ -88,6 +79,15 @@
       "title": "Fenerbahçe Tarfin - Anadolu Efes",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
+    },
+    {
+      "date": "2026-11-15",
+      "time": "23:00",
+      "sport": "Tenis",
+      "league": "WTA Indian Wells Final",
+      "title": "E.Svitolina - M.Andreeva",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
     },
     {
       "date": "2026-11-21",
@@ -133,6 +133,33 @@
       "title": "Bursaspor - Bandırma Bordo",
       "channel": "beIN SPORTS 5",
       "stream_id": "13"
+    },
+    {
+      "date": "2026-11-22",
+      "time": "13:00",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Çayırova Bld. - Esenler Erokspor",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-11-22",
+      "time": "15:30",
+      "sport": "Basketbol",
+      "league": "Basketbol Süper Ligi",
+      "title": "Trabzonspor - Anadolu Efes",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
+    },
+    {
+      "date": "2026-11-22",
+      "time": "16:00",
+      "sport": "Futbol",
+      "league": "Trendyol Süper Lig",
+      "title": "Kasımpaşa - Alanyaspor",
+      "channel": "beIN SPORTS 2",
+      "stream_id": "95164"
     }
   ]
 }
