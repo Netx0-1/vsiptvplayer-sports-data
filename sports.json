@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.11.2026 17:46",
+  "updated_at": "19.11.2026 02:41",
   "channels": {
     "beIN SPORTS 1": "9",
     "beIN SPORTS 2": "95164",
@@ -52,6 +52,15 @@
       "title": "Iğdırspor - Ümraniyespor",
       "channel": "beIN SPORTS 2",
       "stream_id": "95164"
+    },
+    {
+      "date": "2026-11-20",
+      "time": "22:00",
+      "sport": "Hentbol",
+      "league": "Fransa Hentbol Ligi",
+      "title": "St.Raphael - Chartres",
+      "channel": "beIN SPORTS 5",
+      "stream_id": "13"
     },
     {
       "date": "2026-11-20",
@@ -322,6 +331,15 @@
       "title": "Bursaspor - Sivasspor",
       "channel": "beIN SPORTS 2",
       "stream_id": "95164"
+    },
+    {
+      "date": "2026-11-22",
+      "time": "19:00",
+      "sport": "Hentbol",
+      "league": "Fransa Hentbol Ligi",
+      "title": "Fenix Toulouse - Montpellier",
+      "channel": "beIN SPORTS MAX 1",
+      "stream_id": "15"
     },
     {
       "date": "2026-11-22",
